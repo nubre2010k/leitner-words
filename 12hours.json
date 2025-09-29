@@ -1,7 +1,1358 @@
-{
-    "hello": "salom",
-    "apple": "olma",
-    "book": "kitob",
-    "computer": "kompyuter"
+[
+  {
+    "word": "﻿beat",
+    "meaning": "yengmoq"
+  },
+  {
+    "word": "board game",
+    "meaning": "doska oyini"
+  },
+  {
+    "word": "captain",
+    "meaning": "sardor(kapitan)"
+  },
+  {
+    "word": "challenge",
+    "meaning": "chaqiruv(musobaqaga)"
+  },
+  {
+    "word": "champion",
+    "meaning": "champion"
+  },
+  {
+    "word": "cheat",
+    "meaning": "g’irromlik qilmoq"
+  },
+  {
+    "word": "classical music",
+    "meaning": "mumtoz musiqa"
+  },
+  {
+    "word": "club",
+    "meaning": "club"
+  },
+  {
+    "word": "coach",
+    "meaning": "murabbiy"
+  },
+  {
+    "word": "competition",
+    "meaning": "musobaqa"
+  },
+  {
+    "word": "concert",
+    "meaning": "konsert"
+  },
+  {
+    "word": "defeat",
+    "meaning": "g’alaba (qozonmoq)"
+  },
+  {
+    "word": "entertaining",
+    "meaning": "ko’ngilochar"
+  },
+  {
+    "word": "folk music",
+    "meaning": "folklor musiqa"
+  },
+  {
+    "word": "group",
+    "meaning": "guruh"
+  },
+  {
+    "word": "gym",
+    "meaning": "zal (gimnaziya zali)"
+  },
+  {
+    "word": "have fun",
+    "meaning": "xursandchilik qilmoq"
+  },
+  {
+    "word": "interest",
+    "meaning": "qiziqtirmoq"
+  },
+  {
+    "word": "member",
+    "meaning": "a’zo"
+  },
+  {
+    "word": "opponent",
+    "meaning": "raqib"
+  },
+  {
+    "word": "organize",
+    "meaning": "tashkillashtirmoq"
+  },
+  {
+    "word": "pleasure",
+    "meaning": "rohat"
+  },
+  {
+    "word": "referee",
+    "meaning": "hakam"
+  },
+  {
+    "word": "rhythm",
+    "meaning": "maqom; marom"
+  },
+  {
+    "word": "risk",
+    "meaning": "tavakkal (qilmoq)"
+  },
+  {
+    "word": "score",
+    "meaning": "ochko (ishlamoq) (gol kiritmoq)"
+  },
+  {
+    "word": "support",
+    "meaning": "qo’llab quvatla(sh)"
+  },
+  {
+    "word": "team",
+    "meaning": "jamoa"
+  },
+  {
+    "word": "train",
+    "meaning": "trenirovka qilmoq"
+  },
+  {
+    "word": "video game",
+    "meaning": "video oyin (komp o’yini)"
+  },
+  {
+    "word": "Carry on",
+    "meaning": "davom etmoq"
+  },
+  {
+    "word": "Eat out",
+    "meaning": "restaranda ovqatlanmoq"
+  },
+  {
+    "word": "Give up",
+    "meaning": "odatni tashlamoq"
+  },
+  {
+    "word": "Join in",
+    "meaning": "qo’shilmoq, qatnashmoq"
+  },
+  {
+    "word": "Send off",
+    "meaning": "o’yindan chetlashtirmoq"
+  },
+  {
+    "word": "Take up",
+    "meaning": "boshlamoq (hobby, sport)"
+  },
+  {
+    "word": "Turn down",
+    "meaning": "ovozni pasaytirmoq"
+  },
+  {
+    "word": "Turn up",
+    "meaning": "ovozni ko’tarmoq"
+  },
+  {
+    "word": "For a long time",
+    "meaning": "uzoq vaqt davomida"
+  },
+  {
+    "word": "For fun",
+    "meaning": "ermak uchun"
+  },
+  {
+    "word": "In the middle (of)",
+    "meaning": "ning o’rtasida"
+  },
+  {
+    "word": "In time (for)",
+    "meaning": "ayni vaqtida"
+  },
+  {
+    "word": "On CD/DVD/video",
+    "meaning": "CD/DVD/videoda"
+  },
+  {
+    "word": "On stage",
+    "meaning": "sahnada"
+  },
+  {
+    "word": "Act",
+    "meaning": "harakat qilmoq"
+  },
+  {
+    "word": "Action",
+    "meaning": "harakat"
+  },
+  {
+    "word": "Active",
+    "meaning": "faol"
+  },
+  {
+    "word": "Inactive",
+    "meaning": "nofaol"
+  },
+  {
+    "word": "Actor",
+    "meaning": "aktyor"
+  },
+  {
+    "word": "Athlete",
+    "meaning": "atletikachi"
+  },
+  {
+    "word": "Athletic",
+    "meaning": "sportga xos"
+  },
+  {
+    "word": "Athletics",
+    "meaning": "atletika"
+  },
+  {
+    "word": "Child",
+    "meaning": "bola"
+  },
+  {
+    "word": "Children",
+    "meaning": "bolalar"
+  },
+  {
+    "word": "Childhood",
+    "meaning": "bolalik"
+  },
+  {
+    "word": "Collect",
+    "meaning": "yig’moq"
+  },
+  {
+    "word": "Collection",
+    "meaning": "kolleksiya"
+  },
+  {
+    "word": "Collector",
+    "meaning": "kolleksioner"
+  },
+  {
+    "word": "Entertain",
+    "meaning": "ko’ngil ochmoq"
+  },
+  {
+    "word": "Entertainment",
+    "meaning": "ko’ngilxushlik"
+  },
+  {
+    "word": "Hero",
+    "meaning": "qahramon"
+  },
+  {
+    "word": "Heroic",
+    "meaning": "mardlarcha"
+  },
+  {
+    "word": "Heroine",
+    "meaning": "qahramon ayol"
+  },
+  {
+    "word": "Heroin",
+    "meaning": "geroin"
+  },
+  {
+    "word": "Music",
+    "meaning": "musiqa"
+  },
+  {
+    "word": "Musical",
+    "meaning": "musiqiy"
+  },
+  {
+    "word": "Musician",
+    "meaning": "musiqachi"
+  },
+  {
+    "word": "Play",
+    "meaning": "o’ynamoq"
+  },
+  {
+    "word": "Player",
+    "meaning": "o’yinchi"
+  },
+  {
+    "word": "Playful",
+    "meaning": "o’yinqaroq, sho’x"
+  },
+  {
+    "word": "Sail",
+    "meaning": "suzmoq"
+  },
+  {
+    "word": "Sailing",
+    "meaning": "dengiz safari"
+  },
+  {
+    "word": "Sailor",
+    "meaning": "dengizchi"
+  },
+  {
+    "word": "Sing [sang/sung]",
+    "meaning": "kuylamoq"
+  },
+  {
+    "word": "Song",
+    "meaning": "ashula, qo’shiq"
+  },
+  {
+    "word": "Singer",
+    "meaning": "qo’shiqchi"
+  },
+  {
+    "word": "Singing",
+    "meaning": "kuylash"
+  },
+  {
+    "word": "Bored with",
+    "meaning": "zerikmoq"
+  },
+  {
+    "word": "Crazy about",
+    "meaning": "jinnisi bo’lmoq"
+  },
+  {
+    "word": "Good at",
+    "meaning": "dan yaxshi"
+  },
+  {
+    "word": "Interested in",
+    "meaning": "ga qiziqmoq"
+  },
+  {
+    "word": "Keen on",
+    "meaning": "ishqiboz bo’lmoq"
+  },
+  {
+    "word": "Popular with",
+    "meaning": "orasida mashhur"
+  },
+  {
+    "word": "Feel like",
+    "meaning": "xohlamoq"
+  },
+  {
+    "word": "Listen to",
+    "meaning": "ni tinglamoq"
+  },
+  {
+    "word": "Take part in",
+    "meaning": "da qatnashmoq"
+  },
+  {
+    "word": "A book by sb",
+    "meaning": "ning kitobi"
+  },
+  {
+    "word": "A book about",
+    "meaning": "haqida kitob"
+  },
+  {
+    "word": "A fan of",
+    "meaning": "fanati, muhlisi"
+  },
+  {
+    "word": "A game against",
+    "meaning": "ga qarshi o’yin"
+  },
+  {
+    "word": "Achieve",
+    "meaning": "erishmoq"
+  },
+  {
+    "word": "Brain",
+    "meaning": "aql; miya"
+  },
+  {
+    "word": "Clever",
+    "meaning": "aqlli"
+  },
+  {
+    "word": "Concentrate",
+    "meaning": "diqqatni jamlamoq"
+  },
+  {
+    "word": "Consider",
+    "meaning": "o’ylab ko’rmoq"
+  },
+  {
+    "word": "Course",
+    "meaning": "kurs"
+  },
+  {
+    "word": "Degree",
+    "meaning": "diplom"
+  },
+  {
+    "word": "Experience",
+    "meaning": "boshdan kechirmoq(kechinma)"
+  },
+  {
+    "word": "Expert",
+    "meaning": "mutaxassis"
+  },
+  {
+    "word": "Fail",
+    "meaning": "muvaffaqiyatsizlikka uchramoq"
+  },
+  {
+    "word": "Guess",
+    "meaning": "taxmin (qilmoq)"
+  },
+  {
+    "word": "Hesitate",
+    "meaning": "ikkilanmoq"
+  },
+  {
+    "word": "Instruction",
+    "meaning": "ko’rsatma"
+  },
+  {
+    "word": "Make progress",
+    "meaning": "yutuqqa erishmoq"
+  },
+  {
+    "word": "Make sure",
+    "meaning": "ishonch hosil qilmoq"
+  },
+  {
+    "word": "Mark",
+    "meaning": "baholamoq (baho)"
+  },
+  {
+    "word": "Mental",
+    "meaning": "aqliy"
+  },
+  {
+    "word": "Pass",
+    "meaning": "o’tmoq"
+  },
+  {
+    "word": "Qualification",
+    "meaning": "malaka"
+  },
+  {
+    "word": "Remind",
+    "meaning": "eslatmoq"
+  },
+  {
+    "word": "Report",
+    "meaning": "xabar"
+  },
+  {
+    "word": "Revise",
+    "meaning": "takrorlamoq"
+  },
+  {
+    "word": "Search",
+    "meaning": "qidirmoq (qidiruv)"
+  },
+  {
+    "word": "Skill",
+    "meaning": "mahorat"
+  },
+  {
+    "word": "Smart",
+    "meaning": "aqlli"
+  },
+  {
+    "word": "Subject",
+    "meaning": "fan"
+  },
+  {
+    "word": "Take an exam",
+    "meaning": "imtixon topshirmoq"
+  },
+  {
+    "word": "Talented",
+    "meaning": "iqtidorli"
+  },
+  {
+    "word": "Term",
+    "meaning": "chorak"
+  },
+  {
+    "word": "Wonder",
+    "meaning": "qiziqmoq (bilishga)"
+  },
+  {
+    "word": "Cross out",
+    "meaning": "ustidan chizmoq (xatoni)"
+  },
+  {
+    "word": "Look up",
+    "meaning": "so’z qidirmoq"
+  },
+  {
+    "word": "Point out",
+    "meaning": "eslatib o’tmoq"
+  },
+  {
+    "word": "Read out",
+    "meaning": "baland ovozda o’qimoq"
+  },
+  {
+    "word": "Rip up",
+    "meaning": "bo’lakka bo’lmoq"
+  },
+  {
+    "word": "Rub out",
+    "meaning": "o’chirmoq (o’chirgich bn)"
+  },
+  {
+    "word": "Turn over",
+    "meaning": "keyingi sahifaga o’tmoq"
+  },
+  {
+    "word": "Write down",
+    "meaning": "yozib olmoq"
+  },
+  {
+    "word": "By heart",
+    "meaning": "yoddan"
+  },
+  {
+    "word": "For instance",
+    "meaning": "misol uchun"
+  },
+  {
+    "word": "In conclusion",
+    "meaning": "xulosa qilib aytganda"
+  },
+  {
+    "word": "In fact",
+    "meaning": "aslida"
+  },
+  {
+    "word": "In favour (of)",
+    "meaning": "tarafdori; qo’llab quvvatlamoq"
+  },
+  {
+    "word": "In general",
+    "meaning": "umuman olganda"
+  },
+  {
+    "word": "Begin[began/begun]",
+    "meaning": "boshlamoq"
+  },
+  {
+    "word": "Beginner",
+    "meaning": "yangi boshlovchi"
+  },
+  {
+    "word": "Beginning",
+    "meaning": "boshi"
+  },
+  {
+    "word": "Brave",
+    "meaning": "jasur"
+  },
+  {
+    "word": "Bravery",
+    "meaning": "jasurlik"
+  },
+  {
+    "word": "Correct",
+    "meaning": "to’g’rilamoq; to’g’ri"
+  },
+  {
+    "word": "Correction",
+    "meaning": "to’g’rilash"
+  },
+  {
+    "word": "Incorrect",
+    "meaning": "noto’g’ri"
+  },
+  {
+    "word": "Divide",
+    "meaning": "bo’lmoq"
+  },
+  {
+    "word": "Division",
+    "meaning": "bo’lish"
+  },
+  {
+    "word": "Educate",
+    "meaning": "ta’lim bermoq"
+  },
+  {
+    "word": "Education",
+    "meaning": "ta’lim"
+  },
+  {
+    "word": "Instruct",
+    "meaning": "o’qitmoq"
+  },
+  {
+    "word": "Instruction",
+    "meaning": "ko’rsatmoq"
+  },
+  {
+    "word": "Instructor",
+    "meaning": "murabbiy"
+  },
+  {
+    "word": "Memory",
+    "meaning": "xotira"
+  },
+  {
+    "word": "Memorize",
+    "meaning": "yod olmoq"
+  },
+  {
+    "word": "Memorial",
+    "meaning": "haykal, yodgorlik"
+  },
+  {
+    "word": "Refer",
+    "meaning": "nazarda tutmoq"
+  },
+  {
+    "word": "Reference",
+    "meaning": "tavsiyanoma (ma’lumot)"
+  },
+  {
+    "word": "Silent",
+    "meaning": "tinch"
+  },
+  {
+    "word": "Silently",
+    "meaning": "tinch (adverb)"
+  },
+  {
+    "word": "Silence",
+    "meaning": "tinchlik, jimlik"
+  },
+  {
+    "word": "Simple",
+    "meaning": "oddiy, oson"
+  },
+  {
+    "word": "Simplify",
+    "meaning": "osonlashtirmoq"
+  },
+  {
+    "word": "Simplicity",
+    "meaning": "oddiy"
+  },
+  {
+    "word": "Capable of",
+    "meaning": "qobiliyatli"
+  },
+  {
+    "word": "Talented at",
+    "meaning": "iqtidorli"
+  },
+  {
+    "word": "Cheat at/in",
+    "meaning": "g’irromlik qilmoq"
+  },
+  {
+    "word": "Confuse smt with",
+    "meaning": "chalkashtirmoq"
+  },
+  {
+    "word": "Continue with",
+    "meaning": "davom ettirmoq"
+  },
+  {
+    "word": "Cope with",
+    "meaning": "uddalamoq"
+  },
+  {
+    "word": "Help sb with",
+    "meaning": "yordam bermoq"
+  },
+  {
+    "word": "Know about",
+    "meaning": "haqida bilmoq"
+  },
+  {
+    "word": "Learn about",
+    "meaning": "haqida o’rganmoq"
+  },
+  {
+    "word": "Succeed in",
+    "meaning": "ga muvaffaq bo’lmoq"
+  },
+  {
+    "word": "An opinion about/of",
+    "meaning": "haqida fikr"
+  },
+  {
+    "word": "A question about",
+    "meaning": "haqida savol"
+  },
+  {
+    "word": "Accent",
+    "meaning": "aksent"
+  },
+  {
+    "word": "Announcement",
+    "meaning": "e’lon"
+  },
+  {
+    "word": "Broadcast",
+    "meaning": "eshittirmoq/eshittirish"
+  },
+  {
+    "word": "Channel",
+    "meaning": "kanal"
+  },
+  {
+    "word": "Clear",
+    "meaning": "aniq; toza"
+  },
+  {
+    "word": "Click",
+    "meaning": "kattalashtirmoq, oydinlashtirmoq"
+  },
+  {
+    "word": "Contact",
+    "meaning": "aloqa (qilmoq)"
+  },
+  {
+    "word": "File",
+    "meaning": "fayl"
+  },
+  {
+    "word": "Formal",
+    "meaning": "rasmiy"
+  },
+  {
+    "word": "Image",
+    "meaning": "surat, tasvir"
+  },
+  {
+    "word": "Informal",
+    "meaning": "norasmiy"
+  },
+  {
+    "word": "Internet",
+    "meaning": "internet"
+  },
+  {
+    "word": "Interrupt",
+    "meaning": "halaqt bermoq"
+  },
+  {
+    "word": "Link",
+    "meaning": "ulamoq (ulash)"
+  },
+  {
+    "word": "Media",
+    "meaning": "(OAV) ommaviy axborot vositasi"
+  },
+  {
+    "word": "Mobile phone",
+    "meaning": "qo’l telefon"
+  },
+  {
+    "word": "Online",
+    "meaning": "onlayn, to’g’ridan-to’g’ri"
+  },
+  {
+    "word": "Pause",
+    "meaning": "to’xtash (pauza) qilmoq"
+  },
+  {
+    "word": "Persuade",
+    "meaning": "ko’ndirmoq"
+  },
+  {
+    "word": "Pronounce",
+    "meaning": "talaffuz qilmoq"
+  },
+  {
+    "word": "Publish",
+    "meaning": "nashr qilmoq"
+  },
+  {
+    "word": "Report",
+    "meaning": "xabar (qilmoq)"
+  },
+  {
+    "word": "Request",
+    "meaning": "iltimos (qilmoq)"
+  },
+  {
+    "word": "Ring",
+    "meaning": "jiringlamoq"
+  },
+  {
+    "word": "Signal",
+    "meaning": "signal(to’lqin)"
+  },
+  {
+    "word": "Swear",
+    "meaning": "haqoratlamoq"
+  },
+  {
+    "word": "Type",
+    "meaning": "pechat qilmoq"
+  },
+  {
+    "word": "Viewer",
+    "meaning": "tomoshabin"
+  },
+  {
+    "word": "Website",
+    "meaning": "vebsayt"
+  },
+  {
+    "word": "Whisper",
+    "meaning": "shivirlamoq"
+  },
+  {
+    "word": "Call back",
+    "meaning": "qayta tel qilmoq"
+  },
+  {
+    "word": "Come out",
+    "meaning": "nashrdan chiqmoq"
+  },
+  {
+    "word": "Cut off",
+    "meaning": "uzib qo’ymoq"
+  },
+  {
+    "word": "Fill in",
+    "meaning": "to’ldirmoq"
+  },
+  {
+    "word": "Hang up",
+    "meaning": "go’shakni qo’ymoq"
+  },
+  {
+    "word": "Log off",
+    "meaning": "netdan chiqmoq"
+  },
+  {
+    "word": "Log on(to)",
+    "meaning": "netga kirmoq"
+  },
+  {
+    "word": "Print out",
+    "meaning": "nashrdan chiqarmoq"
+  },
+  {
+    "word": "By e",
+    "meaning": "mail – emayl orqali"
+  },
+  {
+    "word": "By phone",
+    "meaning": "tel orqali"
+  },
+  {
+    "word": "By letter",
+    "meaning": "xat orqali"
+  },
+  {
+    "word": "On the internet",
+    "meaning": "internetda"
+  },
+  {
+    "word": "On the news",
+    "meaning": "yangiliklarda"
+  },
+  {
+    "word": "On the phone",
+    "meaning": "telefonda"
+  },
+  {
+    "word": "On the radio",
+    "meaning": "radioda"
+  },
+  {
+    "word": "On TV",
+    "meaning": "televizorda"
+  },
+  {
+    "word": "Certain",
+    "meaning": "aniq"
+  },
+  {
+    "word": "Certainly",
+    "meaning": "albattta"
+  },
+  {
+    "word": "Certainty",
+    "meaning": "aniqlik"
+  },
+  {
+    "word": "Communication",
+    "meaning": "aloqa"
+  },
+  {
+    "word": "Connect",
+    "meaning": "bog’la(n)moq"
+  },
+  {
+    "word": "Connection",
+    "meaning": "bog’liqlik"
+  },
+  {
+    "word": "Disconnect",
+    "meaning": "uzmoq"
+  },
+  {
+    "word": "Deliver",
+    "meaning": "yetkazib bermoq"
+  },
+  {
+    "word": "Delivery",
+    "meaning": "yetkazib berish"
+  },
+  {
+    "word": "Express",
+    "meaning": "ifodalamoq"
+  },
+  {
+    "word": "Expression",
+    "meaning": "ifoda; ibora"
+  },
+  {
+    "word": "Expressive",
+    "meaning": "ifodali"
+  },
+  {
+    "word": "Inform",
+    "meaning": "xabar bermoq"
+  },
+  {
+    "word": "Informative",
+    "meaning": "axborot beradigan"
+  },
+  {
+    "word": "Information",
+    "meaning": "axborot"
+  },
+  {
+    "word": "Predict",
+    "meaning": "bashorat qilmoq"
+  },
+  {
+    "word": "Prediction",
+    "meaning": "bashorat"
+  },
+  {
+    "word": "Predictable",
+    "meaning": "kutilyotgan"
+  },
+  {
+    "word": "Unpredictable",
+    "meaning": "bashorat qilib bo’lmaydigan"
+  },
+  {
+    "word": "Secret",
+    "meaning": "sir"
+  },
+  {
+    "word": "Secretly",
+    "meaning": "sirli"
+  },
+  {
+    "word": "Secrecy",
+    "meaning": "sirlilik"
+  },
+  {
+    "word": "Speak [spoke/spoken]",
+    "meaning": "gapirmoq"
+  },
+  {
+    "word": "Speaker",
+    "meaning": "so’zlovchi"
+  },
+  {
+    "word": "Speech",
+    "meaning": "nutq"
+  },
+  {
+    "word": "Translate",
+    "meaning": "tarjima qilmoq"
+  },
+  {
+    "word": "Translation",
+    "meaning": "tarjima"
+  },
+  {
+    "word": "Translator",
+    "meaning": "tarjimon"
+  },
+  {
+    "word": "Comment on",
+    "meaning": "fikr bildirmoq"
+  },
+  {
+    "word": "Communicate with",
+    "meaning": "bn aloqa o’rnatmoq"
+  },
+  {
+    "word": "Glance at",
+    "meaning": "ko’z yugurtirmoq"
+  },
+  {
+    "word": "Receive sth from",
+    "meaning": "dan qabul qilmoq"
+  },
+  {
+    "word": "Reply to",
+    "meaning": "ga javob qaytarmoq"
+  },
+  {
+    "word": "Send sth to sb",
+    "meaning": "jo’natmoq"
+  },
+  {
+    "word": "Talk (to sb) about",
+    "meaning": "bn haqida gaplashmoq"
+  },
+  {
+    "word": "Tell sb about",
+    "meaning": "haqida gaplashmoq"
+  },
+  {
+    "word": "Translate (from sth) into",
+    "meaning": "tarjima qilmoq"
+  },
+  {
+    "word": "Write (to sb) about",
+    "meaning": "haqida yozmoq"
+  },
+  {
+    "word": "Information about",
+    "meaning": "haqida xabar"
+  },
+  {
+    "word": "A letter (from sb) about",
+    "meaning": "haqida xat"
+  },
+  {
+    "word": "Admit",
+    "meaning": "tan olmoq"
+  },
+  {
+    "word": "Arrest",
+    "meaning": "qamamoq"
+  },
+  {
+    "word": "Charity",
+    "meaning": "xayr-ehson"
+  },
+  {
+    "word": "Commit",
+    "meaning": "jinoyat sodir etmoq"
+  },
+  {
+    "word": "Community",
+    "meaning": "jamiyat, jamoa"
+  },
+  {
+    "word": "Court",
+    "meaning": "sud"
+  },
+  {
+    "word": "Criminal",
+    "meaning": "jinoyatchi/jinoiy"
+  },
+  {
+    "word": "Familiar",
+    "meaning": "tanish"
+  },
+  {
+    "word": "Government",
+    "meaning": "hukumat"
+  },
+  {
+    "word": "Habit",
+    "meaning": "odat"
+  },
+  {
+    "word": "Identity card",
+    "meaning": "guvohnoma/pasport"
+  },
+  {
+    "word": "Illegal",
+    "meaning": "noqonuniy"
+  },
+  {
+    "word": "Politics",
+    "meaning": "siyosat"
+  },
+  {
+    "word": "Population",
+    "meaning": "aholi"
+  },
+  {
+    "word": "Prison",
+    "meaning": "qamoq"
+  },
+  {
+    "word": "Protest",
+    "meaning": "e’tiroz bildirmoq"
+  },
+  {
+    "word": "Resident",
+    "meaning": "yashovchi"
+  },
+  {
+    "word": "Responsible",
+    "meaning": "javobgar"
+  },
+  {
+    "word": "Rob",
+    "meaning": "o’marmoq"
+  },
+  {
+    "word": "Routine",
+    "meaning": "kun tartibi"
+  },
+  {
+    "word": "Schedule",
+    "meaning": "jadval"
+  },
+  {
+    "word": "Situation",
+    "meaning": "holat, vaziyat"
+  },
+  {
+    "word": "Social",
+    "meaning": "ijtimoiy"
+  },
+  {
+    "word": "Steal",
+    "meaning": "o’g’irlamoq"
+  },
+  {
+    "word": "Tradition",
+    "meaning": "an’ana"
+  },
+  {
+    "word": "Typical",
+    "meaning": "odatiy"
+  },
+  {
+    "word": "Vote",
+    "meaning": "ovoz (bermoq)"
+  },
+  {
+    "word": "Youth club",
+    "meaning": "yoshlar klubi"
+  },
+  {
+    "word": "Break into",
+    "meaning": "bostirib kirmoq"
+  },
+  {
+    "word": "Catch up with",
+    "meaning": "yetib olmoq"
+  },
+  {
+    "word": "Get away with",
+    "meaning": "jazodan qutilib qolmoq(suvdan quriq chiqmoq)"
+  },
+  {
+    "word": "Get up",
+    "meaning": "(yotoqdan) turmoq"
+  },
+  {
+    "word": "Move in",
+    "meaning": "ko’chib kirmoq"
+  },
+  {
+    "word": "Put away",
+    "meaning": "joyiga qo’ymoq, yig’ishtirmoq"
+  },
+  {
+    "word": "Wake up",
+    "meaning": "uyg’onmoq"
+  },
+  {
+    "word": "Wash up",
+    "meaning": "idishlarni yuvmoq"
+  },
+  {
+    "word": "Against the law",
+    "meaning": "qonunga qarshi"
+  },
+  {
+    "word": "At the age of",
+    "meaning": "yoshda"
+  },
+  {
+    "word": "In public",
+    "meaning": "jamoat joyida"
+  },
+  {
+    "word": "In response to",
+    "meaning": "javob tariqasida"
+  },
+  {
+    "word": "In touch with",
+    "meaning": "bilan doimiy aloqada"
+  },
+  {
+    "word": "In my teens/twenties",
+    "meaning": "o’spirinligimda"
+  },
+  {
+    "word": "Agree",
+    "meaning": "qo’shilmoq"
+  },
+  {
+    "word": "Agreement",
+    "meaning": "kelishuv"
+  },
+  {
+    "word": "Disagree",
+    "meaning": "qo’shilmaslik"
+  },
+  {
+    "word": "Belief",
+    "meaning": "ishonch, e’tiqod"
+  },
+  {
+    "word": "Believe",
+    "meaning": "Ishonmoq"
+  },
+  {
+    "word": "Believable",
+    "meaning": "ishonsa bo’ladigan"
+  },
+  {
+    "word": "Unbelievable",
+    "meaning": "ishonib bo’lmaydigan"
+  },
+  {
+    "word": "Courage",
+    "meaning": "jasurlik"
+  },
+  {
+    "word": "Courageous",
+    "meaning": "jasur"
+  },
+  {
+    "word": "Elect",
+    "meaning": "saylamoq"
+  },
+  {
+    "word": "Election",
+    "meaning": "saylov"
+  },
+  {
+    "word": "Equal",
+    "meaning": "teng"
+  },
+  {
+    "word": "Equality",
+    "meaning": "tenglik"
+  },
+  {
+    "word": "Unequal",
+    "meaning": "tengi yo’q,tengsiz"
+  },
+  {
+    "word": "Life",
+    "meaning": "hayot"
+  },
+  {
+    "word": "Live",
+    "meaning": "yashamoq"
+  },
+  {
+    "word": "Alive",
+    "meaning": "tirik"
+  },
+  {
+    "word": "Nation",
+    "meaning": "millat"
+  },
+  {
+    "word": "Nationality",
+    "meaning": "millat (millatiga mansublik)"
+  },
+  {
+    "word": "National",
+    "meaning": "milliy"
+  },
+  {
+    "word": "International",
+    "meaning": "xalqaro"
+  },
+  {
+    "word": "Peace",
+    "meaning": "tinchlik"
+  },
+  {
+    "word": "Peaceful(ly)",
+    "meaning": "xotirjam"
+  },
+  {
+    "word": "Prisoner",
+    "meaning": "mahbus"
+  },
+  {
+    "word": "Shoot [shot/shot]",
+    "meaning": "otmoq"
+  },
+  {
+    "word": "Shooting",
+    "meaning": "o’q otish"
+  },
+  {
+    "word": "Angry with sb",
+    "meaning": "dan jahli chiqmoq"
+  },
+  {
+    "word": "Angry about sth",
+    "meaning": "narsadan jahli chiqmoq"
+  },
+  {
+    "word": "Guilty of",
+    "meaning": "aybdor"
+  },
+  {
+    "word": "Accuse sb of",
+    "meaning": "ayblamoq"
+  },
+  {
+    "word": "Blame sb of",
+    "meaning": "ayblamoq"
+  },
+  {
+    "word": "Blame sth on",
+    "meaning": "ayblamoq"
+  },
+  {
+    "word": "Criticize sb for",
+    "meaning": "tanqid qilmoq"
+  },
+  {
+    "word": "Forget about",
+    "meaning": "unutmoq"
+  },
+  {
+    "word": "Forgive sb for",
+    "meaning": "kechirmoq"
+  },
+  {
+    "word": "Invite sb to",
+    "meaning": "taklif qilmoq"
+  },
+  {
+    "word": "Punish sb for",
+    "meaning": "jazolamoq"
+  },
+  {
+    "word": "Share sth with",
+    "meaning": "baham ko’rmoq"
+  },
+  {
+    "word": "Smile at",
+    "meaning": "tabassum qilmoq"
   }
-  
+]
