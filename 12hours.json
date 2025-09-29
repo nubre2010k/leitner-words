@@ -1,1358 +1,1019 @@
 [
   {
-    "word": "﻿beat",
-    "meaning": "yengmoq"
+    "﻿beat": "yengmoq"
   },
   {
-    "word": "board game",
-    "meaning": "doska oyini"
+    "board game": "doska oyini"
   },
   {
-    "word": "captain",
-    "meaning": "sardor(kapitan)"
+    "captain": "sardor"
   },
   {
-    "word": "challenge",
-    "meaning": "chaqiruv(musobaqaga)"
+    "challenge": "chaqiruv"
   },
   {
-    "word": "champion",
-    "meaning": "champion"
+    "champion": "champion"
   },
   {
-    "word": "cheat",
-    "meaning": "g’irromlik qilmoq"
+    "cheat": "g’irromlik qilmoq"
   },
   {
-    "word": "classical music",
-    "meaning": "mumtoz musiqa"
+    "classical music": "mumtoz musiqa"
   },
   {
-    "word": "club",
-    "meaning": "club"
+    "club": "club"
   },
   {
-    "word": "coach",
-    "meaning": "murabbiy"
+    "coach": "murabbiy"
   },
   {
-    "word": "competition",
-    "meaning": "musobaqa"
+    "competition": "musobaqa"
   },
   {
-    "word": "concert",
-    "meaning": "konsert"
+    "concert": "konsert"
   },
   {
-    "word": "defeat",
-    "meaning": "g’alaba (qozonmoq)"
+    "defeat": "g’alaba"
   },
   {
-    "word": "entertaining",
-    "meaning": "ko’ngilochar"
+    "entertaining": "ko’ngilochar"
   },
   {
-    "word": "folk music",
-    "meaning": "folklor musiqa"
+    "folk music": "folklor musiqa"
   },
   {
-    "word": "group",
-    "meaning": "guruh"
+    "group": "guruh"
   },
   {
-    "word": "gym",
-    "meaning": "zal (gimnaziya zali)"
+    "gym": "zal"
   },
   {
-    "word": "have fun",
-    "meaning": "xursandchilik qilmoq"
+    "have fun": "xursandchilik qilmoq"
   },
   {
-    "word": "interest",
-    "meaning": "qiziqtirmoq"
+    "interest": "qiziqtirmoq"
   },
   {
-    "word": "member",
-    "meaning": "a’zo"
+    "member": "a’zo"
   },
   {
-    "word": "opponent",
-    "meaning": "raqib"
+    "opponent": "raqib"
   },
   {
-    "word": "organize",
-    "meaning": "tashkillashtirmoq"
+    "organize": "tashkillashtirmoq"
   },
   {
-    "word": "pleasure",
-    "meaning": "rohat"
+    "pleasure": "rohat"
   },
   {
-    "word": "referee",
-    "meaning": "hakam"
+    "referee": "hakam"
   },
   {
-    "word": "rhythm",
-    "meaning": "maqom; marom"
+    "rhythm": "maqom; marom"
   },
   {
-    "word": "risk",
-    "meaning": "tavakkal (qilmoq)"
+    "risk": "tavakkal"
   },
   {
-    "word": "score",
-    "meaning": "ochko (ishlamoq) (gol kiritmoq)"
+    "score": "ochko"
   },
   {
-    "word": "support",
-    "meaning": "qo’llab quvatla(sh)"
+    "support": "qo’llab quvatla"
   },
   {
-    "word": "team",
-    "meaning": "jamoa"
+    "team": "jamoa"
   },
   {
-    "word": "train",
-    "meaning": "trenirovka qilmoq"
+    "train": "trenirovka qilmoq"
   },
   {
-    "word": "video game",
-    "meaning": "video oyin (komp o’yini)"
+    "video game": "video oyin"
   },
   {
-    "word": "Carry on",
-    "meaning": "davom etmoq"
+    "Carry on": "davom etmoq"
   },
   {
-    "word": "Eat out",
-    "meaning": "restaranda ovqatlanmoq"
+    "Eat out": "restaranda ovqatlanmoq"
   },
   {
-    "word": "Give up",
-    "meaning": "odatni tashlamoq"
+    "Give up": "odatni tashlamoq"
   },
   {
-    "word": "Join in",
-    "meaning": "qo’shilmoq, qatnashmoq"
+    "Join in": "qo’shilmoq, qatnashmoq"
   },
   {
-    "word": "Send off",
-    "meaning": "o’yindan chetlashtirmoq"
+    "Send off": "o’yindan chetlashtirmoq"
   },
   {
-    "word": "Take up",
-    "meaning": "boshlamoq (hobby, sport)"
+    "Take up": "boshlamoq"
   },
   {
-    "word": "Turn down",
-    "meaning": "ovozni pasaytirmoq"
+    "Turn down": "ovozni pasaytirmoq"
   },
   {
-    "word": "Turn up",
-    "meaning": "ovozni ko’tarmoq"
+    "Turn up": "ovozni ko’tarmoq"
   },
   {
-    "word": "For a long time",
-    "meaning": "uzoq vaqt davomida"
+    "For a long time": "uzoq vaqt davomida"
   },
   {
-    "word": "For fun",
-    "meaning": "ermak uchun"
+    "For fun": "ermak uchun"
   },
   {
-    "word": "In the middle (of)",
-    "meaning": "ning o’rtasida"
+    "In the middle (of)": "ning o’rtasida"
   },
   {
-    "word": "In time (for)",
-    "meaning": "ayni vaqtida"
+    "In time (for)": "ayni vaqtida"
   },
   {
-    "word": "On CD/DVD/video",
-    "meaning": "CD/DVD/videoda"
+    "On CD/DVD/video": "CD/DVD/videoda"
   },
   {
-    "word": "On stage",
-    "meaning": "sahnada"
+    "On stage": "sahnada"
   },
   {
-    "word": "Act",
-    "meaning": "harakat qilmoq"
+    "Act": "harakat qilmoq"
   },
   {
-    "word": "Action",
-    "meaning": "harakat"
+    "Action": "harakat"
   },
   {
-    "word": "Active",
-    "meaning": "faol"
+    "Active": "faol"
   },
   {
-    "word": "Inactive",
-    "meaning": "nofaol"
+    "Inactive": "nofaol"
   },
   {
-    "word": "Actor",
-    "meaning": "aktyor"
+    "Actor": "aktyor"
   },
   {
-    "word": "Athlete",
-    "meaning": "atletikachi"
+    "Athlete": "atletikachi"
   },
   {
-    "word": "Athletic",
-    "meaning": "sportga xos"
+    "Athletic": "sportga xos"
   },
   {
-    "word": "Athletics",
-    "meaning": "atletika"
+    "Athletics": "atletika"
   },
   {
-    "word": "Child",
-    "meaning": "bola"
+    "Child": "bola"
   },
   {
-    "word": "Children",
-    "meaning": "bolalar"
+    "Children": "bolalar"
   },
   {
-    "word": "Childhood",
-    "meaning": "bolalik"
+    "Childhood": "bolalik"
   },
   {
-    "word": "Collect",
-    "meaning": "yig’moq"
+    "Collect": "yig’moq"
   },
   {
-    "word": "Collection",
-    "meaning": "kolleksiya"
+    "Collection": "kolleksiya"
   },
   {
-    "word": "Collector",
-    "meaning": "kolleksioner"
+    "Collector": "kolleksioner"
   },
   {
-    "word": "Entertain",
-    "meaning": "ko’ngil ochmoq"
+    "Entertain": "ko’ngil ochmoq"
   },
   {
-    "word": "Entertainment",
-    "meaning": "ko’ngilxushlik"
+    "Entertainment": "ko’ngilxushlik"
   },
   {
-    "word": "Hero",
-    "meaning": "qahramon"
+    "Hero": "qahramon"
   },
   {
-    "word": "Heroic",
-    "meaning": "mardlarcha"
+    "Heroic": "mardlarcha"
   },
   {
-    "word": "Heroine",
-    "meaning": "qahramon ayol"
+    "Heroine": "qahramon ayol"
   },
   {
-    "word": "Heroin",
-    "meaning": "geroin"
+    "Heroin": "geroin"
   },
   {
-    "word": "Music",
-    "meaning": "musiqa"
+    "Music": "musiqa"
   },
   {
-    "word": "Musical",
-    "meaning": "musiqiy"
+    "Musical": "musiqiy"
   },
   {
-    "word": "Musician",
-    "meaning": "musiqachi"
+    "Musician": "musiqachi"
   },
   {
-    "word": "Play",
-    "meaning": "o’ynamoq"
+    "Play": "o’ynamoq"
   },
   {
-    "word": "Player",
-    "meaning": "o’yinchi"
+    "Player": "o’yinchi"
   },
   {
-    "word": "Playful",
-    "meaning": "o’yinqaroq, sho’x"
+    "Playful": "o’yinqaroq, sho’x"
   },
   {
-    "word": "Sail",
-    "meaning": "suzmoq"
+    "Sail": "suzmoq"
   },
   {
-    "word": "Sailing",
-    "meaning": "dengiz safari"
+    "Sailing": "dengiz safari"
   },
   {
-    "word": "Sailor",
-    "meaning": "dengizchi"
+    "Sailor": "dengizchi"
   },
   {
-    "word": "Sing [sang/sung]",
-    "meaning": "kuylamoq"
+    "Sing [sang/sung]": "kuylamoq"
   },
   {
-    "word": "Song",
-    "meaning": "ashula, qo’shiq"
+    "Song": "ashula, qo’shiq"
   },
   {
-    "word": "Singer",
-    "meaning": "qo’shiqchi"
+    "Singer": "qo’shiqchi"
   },
   {
-    "word": "Singing",
-    "meaning": "kuylash"
+    "Singing": "kuylash"
   },
   {
-    "word": "Bored with",
-    "meaning": "zerikmoq"
+    "Bored with": "zerikmoq"
   },
   {
-    "word": "Crazy about",
-    "meaning": "jinnisi bo’lmoq"
+    "Crazy about": "jinnisi bo’lmoq"
   },
   {
-    "word": "Good at",
-    "meaning": "dan yaxshi"
+    "Good at": "dan yaxshi"
   },
   {
-    "word": "Interested in",
-    "meaning": "ga qiziqmoq"
+    "Interested in": "ga qiziqmoq"
   },
   {
-    "word": "Keen on",
-    "meaning": "ishqiboz bo’lmoq"
+    "Keen on": "ishqiboz bo’lmoq"
   },
   {
-    "word": "Popular with",
-    "meaning": "orasida mashhur"
+    "Popular with": "orasida mashhur"
   },
   {
-    "word": "Feel like",
-    "meaning": "xohlamoq"
+    "Feel like": "xohlamoq"
   },
   {
-    "word": "Listen to",
-    "meaning": "ni tinglamoq"
+    "Listen to": "ni tinglamoq"
   },
   {
-    "word": "Take part in",
-    "meaning": "da qatnashmoq"
+    "Take part in": "da qatnashmoq"
   },
   {
-    "word": "A book by sb",
-    "meaning": "ning kitobi"
+    "A book by sb": "ning kitobi"
   },
   {
-    "word": "A book about",
-    "meaning": "haqida kitob"
+    "A book about": "haqida kitob"
   },
   {
-    "word": "A fan of",
-    "meaning": "fanati, muhlisi"
+    "A fan of": "fanati, muhlisi"
   },
   {
-    "word": "A game against",
-    "meaning": "ga qarshi o’yin"
+    "A game against": "ga qarshi o’yin"
   },
   {
-    "word": "Achieve",
-    "meaning": "erishmoq"
+    "Achieve": "erishmoq"
   },
   {
-    "word": "Brain",
-    "meaning": "aql; miya"
+    "Brain": "aql; miya"
   },
   {
-    "word": "Clever",
-    "meaning": "aqlli"
+    "Clever": "aqlli"
   },
   {
-    "word": "Concentrate",
-    "meaning": "diqqatni jamlamoq"
+    "Concentrate": "diqqatni jamlamoq"
   },
   {
-    "word": "Consider",
-    "meaning": "o’ylab ko’rmoq"
+    "Consider": "o’ylab ko’rmoq"
   },
   {
-    "word": "Course",
-    "meaning": "kurs"
+    "Course": "kurs"
   },
   {
-    "word": "Degree",
-    "meaning": "diplom"
+    "Degree": "diplom"
   },
   {
-    "word": "Experience",
-    "meaning": "boshdan kechirmoq(kechinma)"
+    "Experience": "boshdan kechirmoq"
   },
   {
-    "word": "Expert",
-    "meaning": "mutaxassis"
+    "Expert": "mutaxassis"
   },
   {
-    "word": "Fail",
-    "meaning": "muvaffaqiyatsizlikka uchramoq"
+    "Fail": "muvaffaqiyatsizlikka uchramoq"
   },
   {
-    "word": "Guess",
-    "meaning": "taxmin (qilmoq)"
+    "Guess": "taxmin"
   },
   {
-    "word": "Hesitate",
-    "meaning": "ikkilanmoq"
+    "Hesitate": "ikkilanmoq"
   },
   {
-    "word": "Instruction",
-    "meaning": "ko’rsatma"
+    "Instruction": "ko’rsatma"
   },
   {
-    "word": "Make progress",
-    "meaning": "yutuqqa erishmoq"
+    "Make progress": "yutuqqa erishmoq"
   },
   {
-    "word": "Make sure",
-    "meaning": "ishonch hosil qilmoq"
+    "Make sure": "ishonch hosil qilmoq"
   },
   {
-    "word": "Mark",
-    "meaning": "baholamoq (baho)"
+    "Mark": "baholamoq"
   },
   {
-    "word": "Mental",
-    "meaning": "aqliy"
+    "Mental": "aqliy"
   },
   {
-    "word": "Pass",
-    "meaning": "o’tmoq"
+    "Pass": "o’tmoq"
   },
   {
-    "word": "Qualification",
-    "meaning": "malaka"
+    "Qualification": "malaka"
   },
   {
-    "word": "Remind",
-    "meaning": "eslatmoq"
+    "Remind": "eslatmoq"
   },
   {
-    "word": "Report",
-    "meaning": "xabar"
+    "Report": "xabar"
   },
   {
-    "word": "Revise",
-    "meaning": "takrorlamoq"
+    "Revise": "takrorlamoq"
   },
   {
-    "word": "Search",
-    "meaning": "qidirmoq (qidiruv)"
+    "Search": "qidirmoq"
   },
   {
-    "word": "Skill",
-    "meaning": "mahorat"
+    "Skill": "mahorat"
   },
   {
-    "word": "Smart",
-    "meaning": "aqlli"
+    "Smart": "aqlli"
   },
   {
-    "word": "Subject",
-    "meaning": "fan"
+    "Subject": "fan"
   },
   {
-    "word": "Take an exam",
-    "meaning": "imtixon topshirmoq"
+    "Take an exam": "imtixon topshirmoq"
   },
   {
-    "word": "Talented",
-    "meaning": "iqtidorli"
+    "Talented": "iqtidorli"
   },
   {
-    "word": "Term",
-    "meaning": "chorak"
+    "Term": "chorak"
   },
   {
-    "word": "Wonder",
-    "meaning": "qiziqmoq (bilishga)"
+    "Wonder": "qiziqmoq"
   },
   {
-    "word": "Cross out",
-    "meaning": "ustidan chizmoq (xatoni)"
+    "Cross out": "ustidan chizmoq"
   },
   {
-    "word": "Look up",
-    "meaning": "so’z qidirmoq"
+    "Look up": "so’z qidirmoq"
   },
   {
-    "word": "Point out",
-    "meaning": "eslatib o’tmoq"
+    "Point out": "eslatib o’tmoq"
   },
   {
-    "word": "Read out",
-    "meaning": "baland ovozda o’qimoq"
+    "Read out": "baland ovozda o’qimoq"
   },
   {
-    "word": "Rip up",
-    "meaning": "bo’lakka bo’lmoq"
+    "Rip up": "bo’lakka bo’lmoq"
   },
   {
-    "word": "Rub out",
-    "meaning": "o’chirmoq (o’chirgich bn)"
+    "Rub out": "o’chirmoq"
   },
   {
-    "word": "Turn over",
-    "meaning": "keyingi sahifaga o’tmoq"
+    "Turn over": "keyingi sahifaga o’tmoq"
   },
   {
-    "word": "Write down",
-    "meaning": "yozib olmoq"
+    "Write down": "yozib olmoq"
   },
   {
-    "word": "By heart",
-    "meaning": "yoddan"
+    "By heart": "yoddan"
   },
   {
-    "word": "For instance",
-    "meaning": "misol uchun"
+    "For instance": "misol uchun"
   },
   {
-    "word": "In conclusion",
-    "meaning": "xulosa qilib aytganda"
+    "In conclusion": "xulosa qilib aytganda"
   },
   {
-    "word": "In fact",
-    "meaning": "aslida"
+    "In fact": "aslida"
   },
   {
-    "word": "In favour (of)",
-    "meaning": "tarafdori; qo’llab quvvatlamoq"
+    "In favour (of)": "tarafdori; qo’llab quvvatlamoq"
   },
   {
-    "word": "In general",
-    "meaning": "umuman olganda"
+    "In general": "umuman olganda"
   },
   {
-    "word": "Begin[began/begun]",
-    "meaning": "boshlamoq"
+    "Begin[began/begun]": "boshlamoq"
   },
   {
-    "word": "Beginner",
-    "meaning": "yangi boshlovchi"
+    "Beginner": "yangi boshlovchi"
   },
   {
-    "word": "Beginning",
-    "meaning": "boshi"
+    "Beginning": "boshi"
   },
   {
-    "word": "Brave",
-    "meaning": "jasur"
+    "Brave": "jasur"
   },
   {
-    "word": "Bravery",
-    "meaning": "jasurlik"
+    "Bravery": "jasurlik"
   },
   {
-    "word": "Correct",
-    "meaning": "to’g’rilamoq; to’g’ri"
+    "Correct": "to’g’rilamoq; to’g’ri"
   },
   {
-    "word": "Correction",
-    "meaning": "to’g’rilash"
+    "Correction": "to’g’rilash"
   },
   {
-    "word": "Incorrect",
-    "meaning": "noto’g’ri"
+    "Incorrect": "noto’g’ri"
   },
   {
-    "word": "Divide",
-    "meaning": "bo’lmoq"
+    "Divide": "bo’lmoq"
   },
   {
-    "word": "Division",
-    "meaning": "bo’lish"
+    "Division": "bo’lish"
   },
   {
-    "word": "Educate",
-    "meaning": "ta’lim bermoq"
+    "Educate": "ta’lim bermoq"
   },
   {
-    "word": "Education",
-    "meaning": "ta’lim"
+    "Education": "ta’lim"
   },
   {
-    "word": "Instruct",
-    "meaning": "o’qitmoq"
+    "Instruct": "o’qitmoq"
   },
   {
-    "word": "Instruction",
-    "meaning": "ko’rsatmoq"
+    "Instruction": "ko’rsatmoq"
   },
   {
-    "word": "Instructor",
-    "meaning": "murabbiy"
+    "Instructor": "murabbiy"
   },
   {
-    "word": "Memory",
-    "meaning": "xotira"
+    "Memory": "xotira"
   },
   {
-    "word": "Memorize",
-    "meaning": "yod olmoq"
+    "Memorize": "yod olmoq"
   },
   {
-    "word": "Memorial",
-    "meaning": "haykal, yodgorlik"
+    "Memorial": "haykal, yodgorlik"
   },
   {
-    "word": "Refer",
-    "meaning": "nazarda tutmoq"
+    "Refer": "nazarda tutmoq"
   },
   {
-    "word": "Reference",
-    "meaning": "tavsiyanoma (ma’lumot)"
+    "Reference": "tavsiyanoma"
   },
   {
-    "word": "Silent",
-    "meaning": "tinch"
+    "Silent": "tinch"
   },
   {
-    "word": "Silently",
-    "meaning": "tinch (adverb)"
+    "Silently": "tinch"
   },
   {
-    "word": "Silence",
-    "meaning": "tinchlik, jimlik"
+    "Silence": "tinchlik, jimlik"
   },
   {
-    "word": "Simple",
-    "meaning": "oddiy, oson"
+    "Simple": "oddiy, oson"
   },
   {
-    "word": "Simplify",
-    "meaning": "osonlashtirmoq"
+    "Simplify": "osonlashtirmoq"
   },
   {
-    "word": "Simplicity",
-    "meaning": "oddiy"
+    "Simplicity": "oddiy"
   },
   {
-    "word": "Capable of",
-    "meaning": "qobiliyatli"
+    "Capable of": "qobiliyatli"
   },
   {
-    "word": "Talented at",
-    "meaning": "iqtidorli"
+    "Talented at": "iqtidorli"
   },
   {
-    "word": "Cheat at/in",
-    "meaning": "g’irromlik qilmoq"
+    "Cheat at/in": "g’irromlik qilmoq"
   },
   {
-    "word": "Confuse smt with",
-    "meaning": "chalkashtirmoq"
+    "Confuse smt with": "chalkashtirmoq"
   },
   {
-    "word": "Continue with",
-    "meaning": "davom ettirmoq"
+    "Continue with": "davom ettirmoq"
   },
   {
-    "word": "Cope with",
-    "meaning": "uddalamoq"
+    "Cope with": "uddalamoq"
   },
   {
-    "word": "Help sb with",
-    "meaning": "yordam bermoq"
+    "Help sb with": "yordam bermoq"
   },
   {
-    "word": "Know about",
-    "meaning": "haqida bilmoq"
+    "Know about": "haqida bilmoq"
   },
   {
-    "word": "Learn about",
-    "meaning": "haqida o’rganmoq"
+    "Learn about": "haqida o’rganmoq"
   },
   {
-    "word": "Succeed in",
-    "meaning": "ga muvaffaq bo’lmoq"
+    "Succeed in": "ga muvaffaq bo’lmoq"
   },
   {
-    "word": "An opinion about/of",
-    "meaning": "haqida fikr"
+    "An opinion about/of": "haqida fikr"
   },
   {
-    "word": "A question about",
-    "meaning": "haqida savol"
+    "A question about": "haqida savol"
   },
   {
-    "word": "Accent",
-    "meaning": "aksent"
+    "Accent": "aksent"
   },
   {
-    "word": "Announcement",
-    "meaning": "e’lon"
+    "Announcement": "e’lon"
   },
   {
-    "word": "Broadcast",
-    "meaning": "eshittirmoq/eshittirish"
+    "Broadcast": "eshittirmoq/eshittirish"
   },
   {
-    "word": "Channel",
-    "meaning": "kanal"
+    "Channel": "kanal"
   },
   {
-    "word": "Clear",
-    "meaning": "aniq; toza"
+    "Clear": "aniq; toza"
   },
   {
-    "word": "Click",
-    "meaning": "kattalashtirmoq, oydinlashtirmoq"
+    "Click": "kattalashtirmoq, oydinlashtirmoq"
   },
   {
-    "word": "Contact",
-    "meaning": "aloqa (qilmoq)"
+    "Contact": "aloqa"
   },
   {
-    "word": "File",
-    "meaning": "fayl"
+    "File": "fayl"
   },
   {
-    "word": "Formal",
-    "meaning": "rasmiy"
+    "Formal": "rasmiy"
   },
   {
-    "word": "Image",
-    "meaning": "surat, tasvir"
+    "Image": "surat, tasvir"
   },
   {
-    "word": "Informal",
-    "meaning": "norasmiy"
+    "Informal": "norasmiy"
   },
   {
-    "word": "Internet",
-    "meaning": "internet"
+    "Internet": "internet"
   },
   {
-    "word": "Interrupt",
-    "meaning": "halaqt bermoq"
+    "Interrupt": "halaqt bermoq"
   },
   {
-    "word": "Link",
-    "meaning": "ulamoq (ulash)"
+    "Link": "ulamoq"
   },
   {
-    "word": "Media",
-    "meaning": "(OAV) ommaviy axborot vositasi"
+    "Media": "ommaviy axborot vositasi"
   },
   {
-    "word": "Mobile phone",
-    "meaning": "qo’l telefon"
+    "Mobile phone": "qo’l telefon"
   },
   {
-    "word": "Online",
-    "meaning": "onlayn, to’g’ridan-to’g’ri"
+    "Online": "onlayn, to’g’ridan-to’g’ri"
   },
   {
-    "word": "Pause",
-    "meaning": "to’xtash (pauza) qilmoq"
+    "Pause": "to’xtash  qilmoq"
   },
   {
-    "word": "Persuade",
-    "meaning": "ko’ndirmoq"
+    "Persuade": "ko’ndirmoq"
   },
   {
-    "word": "Pronounce",
-    "meaning": "talaffuz qilmoq"
+    "Pronounce": "talaffuz qilmoq"
   },
   {
-    "word": "Publish",
-    "meaning": "nashr qilmoq"
+    "Publish": "nashr qilmoq"
   },
   {
-    "word": "Report",
-    "meaning": "xabar (qilmoq)"
+    "Report": "xabar"
   },
   {
-    "word": "Request",
-    "meaning": "iltimos (qilmoq)"
+    "Request": "iltimos"
   },
   {
-    "word": "Ring",
-    "meaning": "jiringlamoq"
+    "Ring": "jiringlamoq"
   },
   {
-    "word": "Signal",
-    "meaning": "signal(to’lqin)"
+    "Signal": "signal"
   },
   {
-    "word": "Swear",
-    "meaning": "haqoratlamoq"
+    "Swear": "haqoratlamoq"
   },
   {
-    "word": "Type",
-    "meaning": "pechat qilmoq"
+    "Type": "pechat qilmoq"
   },
   {
-    "word": "Viewer",
-    "meaning": "tomoshabin"
+    "Viewer": "tomoshabin"
   },
   {
-    "word": "Website",
-    "meaning": "vebsayt"
+    "Website": "vebsayt"
   },
   {
-    "word": "Whisper",
-    "meaning": "shivirlamoq"
+    "Whisper": "shivirlamoq"
   },
   {
-    "word": "Call back",
-    "meaning": "qayta tel qilmoq"
+    "Call back": "qayta tel qilmoq"
   },
   {
-    "word": "Come out",
-    "meaning": "nashrdan chiqmoq"
+    "Come out": "nashrdan chiqmoq"
   },
   {
-    "word": "Cut off",
-    "meaning": "uzib qo’ymoq"
+    "Cut off": "uzib qo’ymoq"
   },
   {
-    "word": "Fill in",
-    "meaning": "to’ldirmoq"
+    "Fill in": "to’ldirmoq"
   },
   {
-    "word": "Hang up",
-    "meaning": "go’shakni qo’ymoq"
+    "Hang up": "go’shakni qo’ymoq"
   },
   {
-    "word": "Log off",
-    "meaning": "netdan chiqmoq"
+    "Log off": "netdan chiqmoq"
   },
   {
-    "word": "Log on(to)",
-    "meaning": "netga kirmoq"
+    "Log on(to)": "netga kirmoq"
   },
   {
-    "word": "Print out",
-    "meaning": "nashrdan chiqarmoq"
+    "Print out": "nashrdan chiqarmoq"
   },
   {
-    "word": "By e",
-    "meaning": "mail – emayl orqali"
+    "By e": "mail – emayl orqali"
   },
   {
-    "word": "By phone",
-    "meaning": "tel orqali"
+    "By phone": "tel orqali"
   },
   {
-    "word": "By letter",
-    "meaning": "xat orqali"
+    "By letter": "xat orqali"
   },
   {
-    "word": "On the internet",
-    "meaning": "internetda"
+    "On the internet": "internetda"
   },
   {
-    "word": "On the news",
-    "meaning": "yangiliklarda"
+    "On the news": "yangiliklarda"
   },
   {
-    "word": "On the phone",
-    "meaning": "telefonda"
+    "On the phone": "telefonda"
   },
   {
-    "word": "On the radio",
-    "meaning": "radioda"
+    "On the radio": "radioda"
   },
   {
-    "word": "On TV",
-    "meaning": "televizorda"
+    "On TV": "televizorda"
   },
   {
-    "word": "Certain",
-    "meaning": "aniq"
+    "Certain": "aniq"
   },
   {
-    "word": "Certainly",
-    "meaning": "albattta"
+    "Certainly": "albattta"
   },
   {
-    "word": "Certainty",
-    "meaning": "aniqlik"
+    "Certainty": "aniqlik"
   },
   {
-    "word": "Communication",
-    "meaning": "aloqa"
+    "Communication": "aloqa"
   },
   {
-    "word": "Connect",
-    "meaning": "bog’la(n)moq"
+    "Connect": "bog’lamoq"
   },
   {
-    "word": "Connection",
-    "meaning": "bog’liqlik"
+    "Connection": "bog’liqlik"
   },
   {
-    "word": "Disconnect",
-    "meaning": "uzmoq"
+    "Disconnect": "uzmoq"
   },
   {
-    "word": "Deliver",
-    "meaning": "yetkazib bermoq"
+    "Deliver": "yetkazib bermoq"
   },
   {
-    "word": "Delivery",
-    "meaning": "yetkazib berish"
+    "Delivery": "yetkazib berish"
   },
   {
-    "word": "Express",
-    "meaning": "ifodalamoq"
+    "Express": "ifodalamoq"
   },
   {
-    "word": "Expression",
-    "meaning": "ifoda; ibora"
+    "Expression": "ifoda; ibora"
   },
   {
-    "word": "Expressive",
-    "meaning": "ifodali"
+    "Expressive": "ifodali"
   },
   {
-    "word": "Inform",
-    "meaning": "xabar bermoq"
+    "Inform": "xabar bermoq"
   },
   {
-    "word": "Informative",
-    "meaning": "axborot beradigan"
+    "Informative": "axborot beradigan"
   },
   {
-    "word": "Information",
-    "meaning": "axborot"
+    "Information": "axborot"
   },
   {
-    "word": "Predict",
-    "meaning": "bashorat qilmoq"
+    "Predict": "bashorat qilmoq"
   },
   {
-    "word": "Prediction",
-    "meaning": "bashorat"
+    "Prediction": "bashorat"
   },
   {
-    "word": "Predictable",
-    "meaning": "kutilyotgan"
+    "Predictable": "kutilyotgan"
   },
   {
-    "word": "Unpredictable",
-    "meaning": "bashorat qilib bo’lmaydigan"
+    "Unpredictable": "bashorat qilib bo’lmaydigan"
   },
   {
-    "word": "Secret",
-    "meaning": "sir"
+    "Secret": "sir"
   },
   {
-    "word": "Secretly",
-    "meaning": "sirli"
+    "Secretly": "sirli"
   },
   {
-    "word": "Secrecy",
-    "meaning": "sirlilik"
+    "Secrecy": "sirlilik"
   },
   {
-    "word": "Speak [spoke/spoken]",
-    "meaning": "gapirmoq"
+    "Speak [spoke/spoken]": "gapirmoq"
   },
   {
-    "word": "Speaker",
-    "meaning": "so’zlovchi"
+    "Speaker": "so’zlovchi"
   },
   {
-    "word": "Speech",
-    "meaning": "nutq"
+    "Speech": "nutq"
   },
   {
-    "word": "Translate",
-    "meaning": "tarjima qilmoq"
+    "Translate": "tarjima qilmoq"
   },
   {
-    "word": "Translation",
-    "meaning": "tarjima"
+    "Translation": "tarjima"
   },
   {
-    "word": "Translator",
-    "meaning": "tarjimon"
+    "Translator": "tarjimon"
   },
   {
-    "word": "Comment on",
-    "meaning": "fikr bildirmoq"
+    "Comment on": "fikr bildirmoq"
   },
   {
-    "word": "Communicate with",
-    "meaning": "bn aloqa o’rnatmoq"
+    "Communicate with": "bn aloqa o’rnatmoq"
   },
   {
-    "word": "Glance at",
-    "meaning": "ko’z yugurtirmoq"
+    "Glance at": "ko’z yugurtirmoq"
   },
   {
-    "word": "Receive sth from",
-    "meaning": "dan qabul qilmoq"
+    "Receive sth from": "dan qabul qilmoq"
   },
   {
-    "word": "Reply to",
-    "meaning": "ga javob qaytarmoq"
+    "Reply to": "ga javob qaytarmoq"
   },
   {
-    "word": "Send sth to sb",
-    "meaning": "jo’natmoq"
+    "Send sth to sb": "jo’natmoq"
   },
   {
-    "word": "Talk (to sb) about",
-    "meaning": "bn haqida gaplashmoq"
+    "Talk (to sb) about": "bn haqida gaplashmoq"
   },
   {
-    "word": "Tell sb about",
-    "meaning": "haqida gaplashmoq"
+    "Tell sb about": "haqida gaplashmoq"
   },
   {
-    "word": "Translate (from sth) into",
-    "meaning": "tarjima qilmoq"
+    "Translate (from sth) into": "tarjima qilmoq"
   },
   {
-    "word": "Write (to sb) about",
-    "meaning": "haqida yozmoq"
+    "Write (to sb) about": "haqida yozmoq"
   },
   {
-    "word": "Information about",
-    "meaning": "haqida xabar"
+    "Information about": "haqida xabar"
   },
   {
-    "word": "A letter (from sb) about",
-    "meaning": "haqida xat"
+    "A letter (from sb) about": "haqida xat"
   },
   {
-    "word": "Admit",
-    "meaning": "tan olmoq"
+    "Admit": "tan olmoq"
   },
   {
-    "word": "Arrest",
-    "meaning": "qamamoq"
+    "Arrest": "qamamoq"
   },
   {
-    "word": "Charity",
-    "meaning": "xayr-ehson"
+    "Charity": "xayr-ehson"
   },
   {
-    "word": "Commit",
-    "meaning": "jinoyat sodir etmoq"
+    "Commit": "jinoyat sodir etmoq"
   },
   {
-    "word": "Community",
-    "meaning": "jamiyat, jamoa"
+    "Community": "jamiyat, jamoa"
   },
   {
-    "word": "Court",
-    "meaning": "sud"
+    "Court": "sud"
   },
   {
-    "word": "Criminal",
-    "meaning": "jinoyatchi/jinoiy"
+    "Criminal": "jinoyatchi/jinoiy"
   },
   {
-    "word": "Familiar",
-    "meaning": "tanish"
+    "Familiar": "tanish"
   },
   {
-    "word": "Government",
-    "meaning": "hukumat"
+    "Government": "hukumat"
   },
   {
-    "word": "Habit",
-    "meaning": "odat"
+    "Habit": "odat"
   },
   {
-    "word": "Identity card",
-    "meaning": "guvohnoma/pasport"
+    "Identity card": "guvohnoma/pasport"
   },
   {
-    "word": "Illegal",
-    "meaning": "noqonuniy"
+    "Illegal": "noqonuniy"
   },
   {
-    "word": "Politics",
-    "meaning": "siyosat"
+    "Politics": "siyosat"
   },
   {
-    "word": "Population",
-    "meaning": "aholi"
+    "Population": "aholi"
   },
   {
-    "word": "Prison",
-    "meaning": "qamoq"
+    "Prison": "qamoq"
   },
   {
-    "word": "Protest",
-    "meaning": "e’tiroz bildirmoq"
+    "Protest": "e’tiroz bildirmoq"
   },
   {
-    "word": "Resident",
-    "meaning": "yashovchi"
+    "Resident": "yashovchi"
   },
   {
-    "word": "Responsible",
-    "meaning": "javobgar"
+    "Responsible": "javobgar"
   },
   {
-    "word": "Rob",
-    "meaning": "o’marmoq"
+    "Rob": "o’marmoq"
   },
   {
-    "word": "Routine",
-    "meaning": "kun tartibi"
+    "Routine": "kun tartibi"
   },
   {
-    "word": "Schedule",
-    "meaning": "jadval"
+    "Schedule": "jadval"
   },
   {
-    "word": "Situation",
-    "meaning": "holat, vaziyat"
+    "Situation": "holat, vaziyat"
   },
   {
-    "word": "Social",
-    "meaning": "ijtimoiy"
+    "Social": "ijtimoiy"
   },
   {
-    "word": "Steal",
-    "meaning": "o’g’irlamoq"
+    "Steal": "o’g’irlamoq"
   },
   {
-    "word": "Tradition",
-    "meaning": "an’ana"
+    "Tradition": "an’ana"
   },
   {
-    "word": "Typical",
-    "meaning": "odatiy"
+    "Typical": "odatiy"
   },
   {
-    "word": "Vote",
-    "meaning": "ovoz (bermoq)"
+    "Vote": "ovoz"
   },
   {
-    "word": "Youth club",
-    "meaning": "yoshlar klubi"
+    "Youth club": "yoshlar klubi"
   },
   {
-    "word": "Break into",
-    "meaning": "bostirib kirmoq"
+    "Break into": "bostirib kirmoq"
   },
   {
-    "word": "Catch up with",
-    "meaning": "yetib olmoq"
+    "Catch up with": "yetib olmoq"
   },
   {
-    "word": "Get away with",
-    "meaning": "jazodan qutilib qolmoq(suvdan quriq chiqmoq)"
+    "Get away with": "jazodan qutilib qolmoq"
   },
   {
-    "word": "Get up",
-    "meaning": "(yotoqdan) turmoq"
+    "Get up": "turmoq"
   },
   {
-    "word": "Move in",
-    "meaning": "ko’chib kirmoq"
+    "Move in": "ko’chib kirmoq"
   },
   {
-    "word": "Put away",
-    "meaning": "joyiga qo’ymoq, yig’ishtirmoq"
+    "Put away": "joyiga qo’ymoq, yig’ishtirmoq"
   },
   {
-    "word": "Wake up",
-    "meaning": "uyg’onmoq"
+    "Wake up": "uyg’onmoq"
   },
   {
-    "word": "Wash up",
-    "meaning": "idishlarni yuvmoq"
+    "Wash up": "idishlarni yuvmoq"
   },
   {
-    "word": "Against the law",
-    "meaning": "qonunga qarshi"
+    "Against the law": "qonunga qarshi"
   },
   {
-    "word": "At the age of",
-    "meaning": "yoshda"
+    "At the age of": "yoshda"
   },
   {
-    "word": "In public",
-    "meaning": "jamoat joyida"
+    "In public": "jamoat joyida"
   },
   {
-    "word": "In response to",
-    "meaning": "javob tariqasida"
+    "In response to": "javob tariqasida"
   },
   {
-    "word": "In touch with",
-    "meaning": "bilan doimiy aloqada"
+    "In touch with": "bilan doimiy aloqada"
   },
   {
-    "word": "In my teens/twenties",
-    "meaning": "o’spirinligimda"
+    "In my teens/twenties": "o’spirinligimda"
   },
   {
-    "word": "Agree",
-    "meaning": "qo’shilmoq"
+    "Agree": "qo’shilmoq"
   },
   {
-    "word": "Agreement",
-    "meaning": "kelishuv"
+    "Agreement": "kelishuv"
   },
   {
-    "word": "Disagree",
-    "meaning": "qo’shilmaslik"
+    "Disagree": "qo’shilmaslik"
   },
   {
-    "word": "Belief",
-    "meaning": "ishonch, e’tiqod"
+    "Belief": "ishonch, e’tiqod"
   },
   {
-    "word": "Believe",
-    "meaning": "Ishonmoq"
+    "Believe": "Ishonmoq"
   },
   {
-    "word": "Believable",
-    "meaning": "ishonsa bo’ladigan"
+    "Believable": "ishonsa bo’ladigan"
   },
   {
-    "word": "Unbelievable",
-    "meaning": "ishonib bo’lmaydigan"
+    "Unbelievable": "ishonib bo’lmaydigan"
   },
   {
-    "word": "Courage",
-    "meaning": "jasurlik"
+    "Courage": "jasurlik"
   },
   {
-    "word": "Courageous",
-    "meaning": "jasur"
+    "Courageous": "jasur"
   },
   {
-    "word": "Elect",
-    "meaning": "saylamoq"
+    "Elect": "saylamoq"
   },
   {
-    "word": "Election",
-    "meaning": "saylov"
+    "Election": "saylov"
   },
   {
-    "word": "Equal",
-    "meaning": "teng"
+    "Equal": "teng"
   },
   {
-    "word": "Equality",
-    "meaning": "tenglik"
+    "Equality": "tenglik"
   },
   {
-    "word": "Unequal",
-    "meaning": "tengi yo’q,tengsiz"
+    "Unequal": "tengi yo’q,tengsiz"
   },
   {
-    "word": "Life",
-    "meaning": "hayot"
+    "Life": "hayot"
   },
   {
-    "word": "Live",
-    "meaning": "yashamoq"
+    "Live": "yashamoq"
   },
   {
-    "word": "Alive",
-    "meaning": "tirik"
+    "Alive": "tirik"
   },
   {
-    "word": "Nation",
-    "meaning": "millat"
+    "Nation": "millat"
   },
   {
-    "word": "Nationality",
-    "meaning": "millat (millatiga mansublik)"
+    "Nationality": "millat"
   },
   {
-    "word": "National",
-    "meaning": "milliy"
+    "National": "milliy"
   },
   {
-    "word": "International",
-    "meaning": "xalqaro"
+    "International": "xalqaro"
   },
   {
-    "word": "Peace",
-    "meaning": "tinchlik"
+    "Peace": "tinchlik"
   },
   {
-    "word": "Peaceful(ly)",
-    "meaning": "xotirjam"
+    "Peaceful(ly)": "xotirjam"
   },
   {
-    "word": "Prisoner",
-    "meaning": "mahbus"
+    "Prisoner": "mahbus"
   },
   {
-    "word": "Shoot [shot/shot]",
-    "meaning": "otmoq"
+    "Shoot [shot/shot]": "otmoq"
   },
   {
-    "word": "Shooting",
-    "meaning": "o’q otish"
+    "Shooting": "o’q otish"
   },
   {
-    "word": "Angry with sb",
-    "meaning": "dan jahli chiqmoq"
+    "Angry with sb": "dan jahli chiqmoq"
   },
   {
-    "word": "Angry about sth",
-    "meaning": "narsadan jahli chiqmoq"
+    "Angry about sth": "narsadan jahli chiqmoq"
   },
   {
-    "word": "Guilty of",
-    "meaning": "aybdor"
+    "Guilty of": "aybdor"
   },
   {
-    "word": "Accuse sb of",
-    "meaning": "ayblamoq"
+    "Accuse sb of": "ayblamoq"
   },
   {
-    "word": "Blame sb of",
-    "meaning": "ayblamoq"
+    "Blame sb of": "ayblamoq"
   },
   {
-    "word": "Blame sth on",
-    "meaning": "ayblamoq"
+    "Blame sth on": "ayblamoq"
   },
   {
-    "word": "Criticize sb for",
-    "meaning": "tanqid qilmoq"
+    "Criticize sb for": "tanqid qilmoq"
   },
   {
-    "word": "Forget about",
-    "meaning": "unutmoq"
+    "Forget about": "unutmoq"
   },
   {
-    "word": "Forgive sb for",
-    "meaning": "kechirmoq"
+    "Forgive sb for": "kechirmoq"
   },
   {
-    "word": "Invite sb to",
-    "meaning": "taklif qilmoq"
+    "Invite sb to": "taklif qilmoq"
   },
   {
-    "word": "Punish sb for",
-    "meaning": "jazolamoq"
+    "Punish sb for": "jazolamoq"
   },
   {
-    "word": "Share sth with",
-    "meaning": "baham ko’rmoq"
+    "Share sth with": "baham ko’rmoq"
   },
   {
-    "word": "Smile at",
-    "meaning": "tabassum qilmoq"
+    "Smile at": "tabassum qilmoq"
   }
 ]
