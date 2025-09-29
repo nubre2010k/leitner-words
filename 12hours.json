@@ -1,1019 +1,339 @@
-[
-  {
-    "﻿beat": "yengmoq"
-  },
-  {
-    "board game": "doska oyini"
-  },
-  {
-    "captain": "sardor"
-  },
-  {
-    "challenge": "chaqiruv"
-  },
-  {
-    "champion": "champion"
-  },
-  {
-    "cheat": "g’irromlik qilmoq"
-  },
-  {
-    "classical music": "mumtoz musiqa"
-  },
-  {
-    "club": "club"
-  },
-  {
-    "coach": "murabbiy"
-  },
-  {
-    "competition": "musobaqa"
-  },
-  {
-    "concert": "konsert"
-  },
-  {
-    "defeat": "g’alaba"
-  },
-  {
-    "entertaining": "ko’ngilochar"
-  },
-  {
-    "folk music": "folklor musiqa"
-  },
-  {
-    "group": "guruh"
-  },
-  {
-    "gym": "zal"
-  },
-  {
-    "have fun": "xursandchilik qilmoq"
-  },
-  {
-    "interest": "qiziqtirmoq"
-  },
-  {
-    "member": "a’zo"
-  },
-  {
-    "opponent": "raqib"
-  },
-  {
-    "organize": "tashkillashtirmoq"
-  },
-  {
-    "pleasure": "rohat"
-  },
-  {
-    "referee": "hakam"
-  },
-  {
-    "rhythm": "maqom; marom"
-  },
-  {
-    "risk": "tavakkal"
-  },
-  {
-    "score": "ochko"
-  },
-  {
-    "support": "qo’llab quvatla"
-  },
-  {
-    "team": "jamoa"
-  },
-  {
-    "train": "trenirovka qilmoq"
-  },
-  {
-    "video game": "video oyin"
-  },
-  {
-    "Carry on": "davom etmoq"
-  },
-  {
-    "Eat out": "restaranda ovqatlanmoq"
-  },
-  {
-    "Give up": "odatni tashlamoq"
-  },
-  {
-    "Join in": "qo’shilmoq, qatnashmoq"
-  },
-  {
-    "Send off": "o’yindan chetlashtirmoq"
-  },
-  {
-    "Take up": "boshlamoq"
-  },
-  {
-    "Turn down": "ovozni pasaytirmoq"
-  },
-  {
-    "Turn up": "ovozni ko’tarmoq"
-  },
-  {
-    "For a long time": "uzoq vaqt davomida"
-  },
-  {
-    "For fun": "ermak uchun"
-  },
-  {
-    "In the middle (of)": "ning o’rtasida"
-  },
-  {
-    "In time (for)": "ayni vaqtida"
-  },
-  {
-    "On CD/DVD/video": "CD/DVD/videoda"
-  },
-  {
-    "On stage": "sahnada"
-  },
-  {
-    "Act": "harakat qilmoq"
-  },
-  {
-    "Action": "harakat"
-  },
-  {
-    "Active": "faol"
-  },
-  {
-    "Inactive": "nofaol"
-  },
-  {
-    "Actor": "aktyor"
-  },
-  {
-    "Athlete": "atletikachi"
-  },
-  {
-    "Athletic": "sportga xos"
-  },
-  {
-    "Athletics": "atletika"
-  },
-  {
-    "Child": "bola"
-  },
-  {
-    "Children": "bolalar"
-  },
-  {
-    "Childhood": "bolalik"
-  },
-  {
-    "Collect": "yig’moq"
-  },
-  {
-    "Collection": "kolleksiya"
-  },
-  {
-    "Collector": "kolleksioner"
-  },
-  {
-    "Entertain": "ko’ngil ochmoq"
-  },
-  {
-    "Entertainment": "ko’ngilxushlik"
-  },
-  {
-    "Hero": "qahramon"
-  },
-  {
-    "Heroic": "mardlarcha"
-  },
-  {
-    "Heroine": "qahramon ayol"
-  },
-  {
-    "Heroin": "geroin"
-  },
-  {
-    "Music": "musiqa"
-  },
-  {
-    "Musical": "musiqiy"
-  },
-  {
-    "Musician": "musiqachi"
-  },
-  {
-    "Play": "o’ynamoq"
-  },
-  {
-    "Player": "o’yinchi"
-  },
-  {
-    "Playful": "o’yinqaroq, sho’x"
-  },
-  {
-    "Sail": "suzmoq"
-  },
-  {
-    "Sailing": "dengiz safari"
-  },
-  {
-    "Sailor": "dengizchi"
-  },
-  {
-    "Sing [sang/sung]": "kuylamoq"
-  },
-  {
-    "Song": "ashula, qo’shiq"
-  },
-  {
-    "Singer": "qo’shiqchi"
-  },
-  {
-    "Singing": "kuylash"
-  },
-  {
-    "Bored with": "zerikmoq"
-  },
-  {
-    "Crazy about": "jinnisi bo’lmoq"
-  },
-  {
-    "Good at": "dan yaxshi"
-  },
-  {
-    "Interested in": "ga qiziqmoq"
-  },
-  {
-    "Keen on": "ishqiboz bo’lmoq"
-  },
-  {
-    "Popular with": "orasida mashhur"
-  },
-  {
-    "Feel like": "xohlamoq"
-  },
-  {
-    "Listen to": "ni tinglamoq"
-  },
-  {
-    "Take part in": "da qatnashmoq"
-  },
-  {
-    "A book by sb": "ning kitobi"
-  },
-  {
-    "A book about": "haqida kitob"
-  },
-  {
-    "A fan of": "fanati, muhlisi"
-  },
-  {
-    "A game against": "ga qarshi o’yin"
-  },
-  {
-    "Achieve": "erishmoq"
-  },
-  {
-    "Brain": "aql; miya"
-  },
-  {
-    "Clever": "aqlli"
-  },
-  {
-    "Concentrate": "diqqatni jamlamoq"
-  },
-  {
-    "Consider": "o’ylab ko’rmoq"
-  },
-  {
-    "Course": "kurs"
-  },
-  {
-    "Degree": "diplom"
-  },
-  {
-    "Experience": "boshdan kechirmoq"
-  },
-  {
-    "Expert": "mutaxassis"
-  },
-  {
-    "Fail": "muvaffaqiyatsizlikka uchramoq"
-  },
-  {
-    "Guess": "taxmin"
-  },
-  {
-    "Hesitate": "ikkilanmoq"
-  },
-  {
-    "Instruction": "ko’rsatma"
-  },
-  {
-    "Make progress": "yutuqqa erishmoq"
-  },
-  {
-    "Make sure": "ishonch hosil qilmoq"
-  },
-  {
-    "Mark": "baholamoq"
-  },
-  {
-    "Mental": "aqliy"
-  },
-  {
-    "Pass": "o’tmoq"
-  },
-  {
-    "Qualification": "malaka"
-  },
-  {
-    "Remind": "eslatmoq"
-  },
-  {
-    "Report": "xabar"
-  },
-  {
-    "Revise": "takrorlamoq"
-  },
-  {
-    "Search": "qidirmoq"
-  },
-  {
-    "Skill": "mahorat"
-  },
-  {
-    "Smart": "aqlli"
-  },
-  {
-    "Subject": "fan"
-  },
-  {
-    "Take an exam": "imtixon topshirmoq"
-  },
-  {
-    "Talented": "iqtidorli"
-  },
-  {
-    "Term": "chorak"
-  },
-  {
-    "Wonder": "qiziqmoq"
-  },
-  {
-    "Cross out": "ustidan chizmoq"
-  },
-  {
-    "Look up": "so’z qidirmoq"
-  },
-  {
-    "Point out": "eslatib o’tmoq"
-  },
-  {
-    "Read out": "baland ovozda o’qimoq"
-  },
-  {
-    "Rip up": "bo’lakka bo’lmoq"
-  },
-  {
-    "Rub out": "o’chirmoq"
-  },
-  {
-    "Turn over": "keyingi sahifaga o’tmoq"
-  },
-  {
-    "Write down": "yozib olmoq"
-  },
-  {
-    "By heart": "yoddan"
-  },
-  {
-    "For instance": "misol uchun"
-  },
-  {
-    "In conclusion": "xulosa qilib aytganda"
-  },
-  {
-    "In fact": "aslida"
-  },
-  {
-    "In favour (of)": "tarafdori; qo’llab quvvatlamoq"
-  },
-  {
-    "In general": "umuman olganda"
-  },
-  {
-    "Begin[began/begun]": "boshlamoq"
-  },
-  {
-    "Beginner": "yangi boshlovchi"
-  },
-  {
-    "Beginning": "boshi"
-  },
-  {
-    "Brave": "jasur"
-  },
-  {
-    "Bravery": "jasurlik"
-  },
-  {
-    "Correct": "to’g’rilamoq; to’g’ri"
-  },
-  {
-    "Correction": "to’g’rilash"
-  },
-  {
-    "Incorrect": "noto’g’ri"
-  },
-  {
-    "Divide": "bo’lmoq"
-  },
-  {
-    "Division": "bo’lish"
-  },
-  {
-    "Educate": "ta’lim bermoq"
-  },
-  {
-    "Education": "ta’lim"
-  },
-  {
-    "Instruct": "o’qitmoq"
-  },
-  {
-    "Instruction": "ko’rsatmoq"
-  },
-  {
-    "Instructor": "murabbiy"
-  },
-  {
-    "Memory": "xotira"
-  },
-  {
-    "Memorize": "yod olmoq"
-  },
-  {
-    "Memorial": "haykal, yodgorlik"
-  },
-  {
-    "Refer": "nazarda tutmoq"
-  },
-  {
-    "Reference": "tavsiyanoma"
-  },
-  {
-    "Silent": "tinch"
-  },
-  {
-    "Silently": "tinch"
-  },
-  {
-    "Silence": "tinchlik, jimlik"
-  },
-  {
-    "Simple": "oddiy, oson"
-  },
-  {
-    "Simplify": "osonlashtirmoq"
-  },
-  {
-    "Simplicity": "oddiy"
-  },
-  {
-    "Capable of": "qobiliyatli"
-  },
-  {
-    "Talented at": "iqtidorli"
-  },
-  {
-    "Cheat at/in": "g’irromlik qilmoq"
-  },
-  {
-    "Confuse smt with": "chalkashtirmoq"
-  },
-  {
-    "Continue with": "davom ettirmoq"
-  },
-  {
-    "Cope with": "uddalamoq"
-  },
-  {
-    "Help sb with": "yordam bermoq"
-  },
-  {
-    "Know about": "haqida bilmoq"
-  },
-  {
-    "Learn about": "haqida o’rganmoq"
-  },
-  {
-    "Succeed in": "ga muvaffaq bo’lmoq"
-  },
-  {
-    "An opinion about/of": "haqida fikr"
-  },
-  {
-    "A question about": "haqida savol"
-  },
-  {
-    "Accent": "aksent"
-  },
-  {
-    "Announcement": "e’lon"
-  },
-  {
-    "Broadcast": "eshittirmoq/eshittirish"
-  },
-  {
-    "Channel": "kanal"
-  },
-  {
-    "Clear": "aniq; toza"
-  },
-  {
-    "Click": "kattalashtirmoq, oydinlashtirmoq"
-  },
-  {
-    "Contact": "aloqa"
-  },
-  {
-    "File": "fayl"
-  },
-  {
-    "Formal": "rasmiy"
-  },
-  {
-    "Image": "surat, tasvir"
-  },
-  {
-    "Informal": "norasmiy"
-  },
-  {
-    "Internet": "internet"
-  },
-  {
-    "Interrupt": "halaqt bermoq"
-  },
-  {
-    "Link": "ulamoq"
-  },
-  {
-    "Media": "ommaviy axborot vositasi"
-  },
-  {
-    "Mobile phone": "qo’l telefon"
-  },
-  {
-    "Online": "onlayn, to’g’ridan-to’g’ri"
-  },
-  {
-    "Pause": "to’xtash  qilmoq"
-  },
-  {
-    "Persuade": "ko’ndirmoq"
-  },
-  {
-    "Pronounce": "talaffuz qilmoq"
-  },
-  {
-    "Publish": "nashr qilmoq"
-  },
-  {
-    "Report": "xabar"
-  },
-  {
-    "Request": "iltimos"
-  },
-  {
-    "Ring": "jiringlamoq"
-  },
-  {
-    "Signal": "signal"
-  },
-  {
-    "Swear": "haqoratlamoq"
-  },
-  {
-    "Type": "pechat qilmoq"
-  },
-  {
-    "Viewer": "tomoshabin"
-  },
-  {
-    "Website": "vebsayt"
-  },
-  {
-    "Whisper": "shivirlamoq"
-  },
-  {
-    "Call back": "qayta tel qilmoq"
-  },
-  {
-    "Come out": "nashrdan chiqmoq"
-  },
-  {
-    "Cut off": "uzib qo’ymoq"
-  },
-  {
-    "Fill in": "to’ldirmoq"
-  },
-  {
-    "Hang up": "go’shakni qo’ymoq"
-  },
-  {
-    "Log off": "netdan chiqmoq"
-  },
-  {
-    "Log on(to)": "netga kirmoq"
-  },
-  {
-    "Print out": "nashrdan chiqarmoq"
-  },
-  {
-    "By e": "mail – emayl orqali"
-  },
-  {
-    "By phone": "tel orqali"
-  },
-  {
-    "By letter": "xat orqali"
-  },
-  {
-    "On the internet": "internetda"
-  },
-  {
-    "On the news": "yangiliklarda"
-  },
-  {
-    "On the phone": "telefonda"
-  },
-  {
-    "On the radio": "radioda"
-  },
-  {
-    "On TV": "televizorda"
-  },
-  {
-    "Certain": "aniq"
-  },
-  {
-    "Certainly": "albattta"
-  },
-  {
-    "Certainty": "aniqlik"
-  },
-  {
-    "Communication": "aloqa"
-  },
-  {
-    "Connect": "bog’lamoq"
-  },
-  {
-    "Connection": "bog’liqlik"
-  },
-  {
-    "Disconnect": "uzmoq"
-  },
-  {
-    "Deliver": "yetkazib bermoq"
-  },
-  {
-    "Delivery": "yetkazib berish"
-  },
-  {
-    "Express": "ifodalamoq"
-  },
-  {
-    "Expression": "ifoda; ibora"
-  },
-  {
-    "Expressive": "ifodali"
-  },
-  {
-    "Inform": "xabar bermoq"
-  },
-  {
-    "Informative": "axborot beradigan"
-  },
-  {
-    "Information": "axborot"
-  },
-  {
-    "Predict": "bashorat qilmoq"
-  },
-  {
-    "Prediction": "bashorat"
-  },
-  {
-    "Predictable": "kutilyotgan"
-  },
-  {
-    "Unpredictable": "bashorat qilib bo’lmaydigan"
-  },
-  {
-    "Secret": "sir"
-  },
-  {
-    "Secretly": "sirli"
-  },
-  {
-    "Secrecy": "sirlilik"
-  },
-  {
-    "Speak [spoke/spoken]": "gapirmoq"
-  },
-  {
-    "Speaker": "so’zlovchi"
-  },
-  {
-    "Speech": "nutq"
-  },
-  {
-    "Translate": "tarjima qilmoq"
-  },
-  {
-    "Translation": "tarjima"
-  },
-  {
-    "Translator": "tarjimon"
-  },
-  {
-    "Comment on": "fikr bildirmoq"
-  },
-  {
-    "Communicate with": "bn aloqa o’rnatmoq"
-  },
-  {
-    "Glance at": "ko’z yugurtirmoq"
-  },
-  {
-    "Receive sth from": "dan qabul qilmoq"
-  },
-  {
-    "Reply to": "ga javob qaytarmoq"
-  },
-  {
-    "Send sth to sb": "jo’natmoq"
-  },
-  {
-    "Talk (to sb) about": "bn haqida gaplashmoq"
-  },
-  {
-    "Tell sb about": "haqida gaplashmoq"
-  },
-  {
-    "Translate (from sth) into": "tarjima qilmoq"
-  },
-  {
-    "Write (to sb) about": "haqida yozmoq"
-  },
-  {
-    "Information about": "haqida xabar"
-  },
-  {
-    "A letter (from sb) about": "haqida xat"
-  },
-  {
-    "Admit": "tan olmoq"
-  },
-  {
-    "Arrest": "qamamoq"
-  },
-  {
-    "Charity": "xayr-ehson"
-  },
-  {
-    "Commit": "jinoyat sodir etmoq"
-  },
-  {
-    "Community": "jamiyat, jamoa"
-  },
-  {
-    "Court": "sud"
-  },
-  {
-    "Criminal": "jinoyatchi/jinoiy"
-  },
-  {
-    "Familiar": "tanish"
-  },
-  {
-    "Government": "hukumat"
-  },
-  {
-    "Habit": "odat"
-  },
-  {
-    "Identity card": "guvohnoma/pasport"
-  },
-  {
-    "Illegal": "noqonuniy"
-  },
-  {
-    "Politics": "siyosat"
-  },
-  {
-    "Population": "aholi"
-  },
-  {
-    "Prison": "qamoq"
-  },
-  {
-    "Protest": "e’tiroz bildirmoq"
-  },
-  {
-    "Resident": "yashovchi"
-  },
-  {
-    "Responsible": "javobgar"
-  },
-  {
-    "Rob": "o’marmoq"
-  },
-  {
-    "Routine": "kun tartibi"
-  },
-  {
-    "Schedule": "jadval"
-  },
-  {
-    "Situation": "holat, vaziyat"
-  },
-  {
-    "Social": "ijtimoiy"
-  },
-  {
-    "Steal": "o’g’irlamoq"
-  },
-  {
-    "Tradition": "an’ana"
-  },
-  {
-    "Typical": "odatiy"
-  },
-  {
-    "Vote": "ovoz"
-  },
-  {
-    "Youth club": "yoshlar klubi"
-  },
-  {
-    "Break into": "bostirib kirmoq"
-  },
-  {
-    "Catch up with": "yetib olmoq"
-  },
-  {
-    "Get away with": "jazodan qutilib qolmoq"
-  },
-  {
-    "Get up": "turmoq"
-  },
-  {
-    "Move in": "ko’chib kirmoq"
-  },
-  {
-    "Put away": "joyiga qo’ymoq, yig’ishtirmoq"
-  },
-  {
-    "Wake up": "uyg’onmoq"
-  },
-  {
-    "Wash up": "idishlarni yuvmoq"
-  },
-  {
-    "Against the law": "qonunga qarshi"
-  },
-  {
-    "At the age of": "yoshda"
-  },
-  {
-    "In public": "jamoat joyida"
-  },
-  {
-    "In response to": "javob tariqasida"
-  },
-  {
-    "In touch with": "bilan doimiy aloqada"
-  },
-  {
-    "In my teens/twenties": "o’spirinligimda"
-  },
-  {
-    "Agree": "qo’shilmoq"
-  },
-  {
-    "Agreement": "kelishuv"
-  },
-  {
-    "Disagree": "qo’shilmaslik"
-  },
-  {
-    "Belief": "ishonch, e’tiqod"
-  },
-  {
-    "Believe": "Ishonmoq"
-  },
-  {
-    "Believable": "ishonsa bo’ladigan"
-  },
-  {
-    "Unbelievable": "ishonib bo’lmaydigan"
-  },
-  {
-    "Courage": "jasurlik"
-  },
-  {
-    "Courageous": "jasur"
-  },
-  {
-    "Elect": "saylamoq"
-  },
-  {
-    "Election": "saylov"
-  },
-  {
-    "Equal": "teng"
-  },
-  {
-    "Equality": "tenglik"
-  },
-  {
-    "Unequal": "tengi yo’q,tengsiz"
-  },
-  {
-    "Life": "hayot"
-  },
-  {
-    "Live": "yashamoq"
-  },
-  {
-    "Alive": "tirik"
-  },
-  {
-    "Nation": "millat"
-  },
-  {
-    "Nationality": "millat"
-  },
-  {
-    "National": "milliy"
-  },
-  {
-    "International": "xalqaro"
-  },
-  {
-    "Peace": "tinchlik"
-  },
-  {
-    "Peaceful(ly)": "xotirjam"
-  },
-  {
-    "Prisoner": "mahbus"
-  },
-  {
-    "Shoot [shot/shot]": "otmoq"
-  },
-  {
-    "Shooting": "o’q otish"
-  },
-  {
-    "Angry with sb": "dan jahli chiqmoq"
-  },
-  {
-    "Angry about sth": "narsadan jahli chiqmoq"
-  },
-  {
-    "Guilty of": "aybdor"
-  },
-  {
-    "Accuse sb of": "ayblamoq"
-  },
-  {
-    "Blame sb of": "ayblamoq"
-  },
-  {
-    "Blame sth on": "ayblamoq"
-  },
-  {
-    "Criticize sb for": "tanqid qilmoq"
-  },
-  {
-    "Forget about": "unutmoq"
-  },
-  {
-    "Forgive sb for": "kechirmoq"
-  },
-  {
-    "Invite sb to": "taklif qilmoq"
-  },
-  {
-    "Punish sb for": "jazolamoq"
-  },
-  {
-    "Share sth with": "baham ko’rmoq"
-  },
-  {
-    "Smile at": "tabassum qilmoq"
-  }
-]
+{
+  "beat": "yengmoq",
+  "board game": "doska oyini",
+  "captain": "sardor",
+  "challenge": "chaqiruv",
+  "champion": "champion",
+  "cheat": "g’irromlik qilmoq",
+  "classical music": "mumtoz musiqa",
+  "club": "club",
+  "coach": "murabbiy",
+  "competition": "musobaqa",
+  "concert": "konsert",
+  "defeat": "g’alaba",
+  "entertaining": "ko’ngilochar",
+  "folk music": "folklor musiqa",
+  "group": "guruh",
+  "gym": "zal",
+  "have fun": "xursandchilik qilmoq",
+  "interest": "qiziqtirmoq",
+  "member": "a’zo",
+  "opponent": "raqib",
+  "organize": "tashkillashtirmoq",
+  "pleasure": "rohat",
+  "referee": "hakam",
+  "rhythm": "maqom; marom",
+  "risk": "tavakkal",
+  "score": "ochko",
+  "support": "qo’llab quvatla",
+  "team": "jamoa",
+  "train": "trenirovka qilmoq",
+  "video game": "video oyin",
+  "Carry on": "davom etmoq",
+  "Eat out": "restaranda ovqatlanmoq",
+  "Give up": "odatni tashlamoq",
+  "Join in": "qo’shilmoq, qatnashmoq",
+  "Send off": "o’yindan chetlashtirmoq",
+  "Take up": "boshlamoq",
+  "Turn down": "ovozni pasaytirmoq",
+  "Turn up": "ovozni ko’tarmoq",
+  "For a long time": "uzoq vaqt davomida",
+  "For fun": "ermak uchun",
+  "In the middle (of)": "ning o’rtasida",
+  "In time (for)": "ayni vaqtida",
+  "On CD/DVD/video": "CD/DVD/videoda",
+  "On stage": "sahnada",
+  "Act": "harakat qilmoq",
+  "Action": "harakat",
+  "Active": "faol",
+  "Inactive": "nofaol",
+  "Actor": "aktyor",
+  "Athlete": "atletikachi",
+  "Athletic": "sportga xos",
+  "Athletics": "atletika",
+  "Child": "bola",
+  "Children": "bolalar",
+  "Childhood": "bolalik",
+  "Collect": "yig’moq",
+  "Collection": "kolleksiya",
+  "Collector": "kolleksioner",
+  "Entertain": "ko’ngil ochmoq",
+  "Entertainment": "ko’ngilxushlik",
+  "Hero": "qahramon",
+  "Heroic": "mardlarcha",
+  "Heroine": "qahramon ayol",
+  "Heroin": "geroin",
+  "Music": "musiqa",
+  "Musical": "musiqiy",
+  "Musician": "musiqachi",
+  "Play": "o’ynamoq",
+  "Player": "o’yinchi",
+  "Playful": "o’yinqaroq, sho’x",
+  "Sail": "suzmoq",
+  "Sailing": "dengiz safari",
+  "Sailor": "dengizchi",
+  "Sing [sang/sung]": "kuylamoq",
+  "Song": "ashula, qo’shiq",
+  "Singer": "qo’shiqchi",
+  "Singing": "kuylash",
+  "Bored with": "zerikmoq",
+  "Crazy about": "jinnisi bo’lmoq",
+  "Good at": "dan yaxshi",
+  "Interested in": "ga qiziqmoq",
+  "Keen on": "ishqiboz bo’lmoq",
+  "Popular with": "orasida mashhur",
+  "Feel like": "xohlamoq",
+  "Listen to": "ni tinglamoq",
+  "Take part in": "da qatnashmoq",
+  "A book by sb": "ning kitobi",
+  "A book about": "haqida kitob",
+  "A fan of": "fanati, muhlisi",
+  "A game against": "ga qarshi o’yin",
+  "Achieve": "erishmoq",
+  "Brain": "aql; miya",
+  "Clever": "aqlli",
+  "Concentrate": "diqqatni jamlamoq",
+  "Consider": "o’ylab ko’rmoq",
+  "Course": "kurs",
+  "Degree": "diplom",
+  "Experience": "boshdan kechirmoq",
+  "Expert": "mutaxassis",
+  "Fail": "muvaffaqiyatsizlikka uchramoq",
+  "Guess": "taxmin",
+  "Hesitate": "ikkilanmoq",
+  "Instruction": "ko’rsatmoq",
+  "Make progress": "yutuqqa erishmoq",
+  "Make sure": "ishonch hosil qilmoq",
+  "Mark": "baholamoq",
+  "Mental": "aqliy",
+  "Pass": "o’tmoq",
+  "Qualification": "malaka",
+  "Remind": "eslatmoq",
+  "Report": "xabar",
+  "Revise": "takrorlamoq",
+  "Search": "qidirmoq",
+  "Skill": "mahorat",
+  "Smart": "aqlli",
+  "Subject": "fan",
+  "Take an exam": "imtixon topshirmoq",
+  "Talented": "iqtidorli",
+  "Term": "chorak",
+  "Wonder": "qiziqmoq",
+  "Cross out": "ustidan chizmoq",
+  "Look up": "so’z qidirmoq",
+  "Point out": "eslatib o’tmoq",
+  "Read out": "baland ovozda o’qimoq",
+  "Rip up": "bo’lakka bo’lmoq",
+  "Rub out": "o’chirmoq",
+  "Turn over": "keyingi sahifaga o’tmoq",
+  "Write down": "yozib olmoq",
+  "By heart": "yoddan",
+  "For instance": "misol uchun",
+  "In conclusion": "xulosa qilib aytganda",
+  "In fact": "aslida",
+  "In favour (of)": "tarafdori; qo’llab quvvatlamoq",
+  "In general": "umuman olganda",
+  "Begin[began/begun]": "boshlamoq",
+  "Beginner": "yangi boshlovchi",
+  "Beginning": "boshi",
+  "Brave": "jasur",
+  "Bravery": "jasurlik",
+  "Correct": "to’g’rilamoq; to’g’ri",
+  "Correction": "to’g’rilash",
+  "Incorrect": "noto’g’ri",
+  "Divide": "bo’lmoq",
+  "Division": "bo’lish",
+  "Educate": "ta’lim bermoq",
+  "Education": "ta’lim",
+  "Instruct": "o’qitmoq",
+  "Instructor": "murabbiy",
+  "Memory": "xotira",
+  "Memorize": "yod olmoq",
+  "Memorial": "haykal, yodgorlik",
+  "Refer": "nazarda tutmoq",
+  "Reference": "tavsiyanoma",
+  "Silent": "tinch",
+  "Silently": "tinch",
+  "Silence": "tinchlik, jimlik",
+  "Simple": "oddiy, oson",
+  "Simplify": "osonlashtirmoq",
+  "Simplicity": "oddiy",
+  "Capable of": "qobiliyatli",
+  "Talented at": "iqtidorli",
+  "Cheat at/in": "g’irromlik qilmoq",
+  "Confuse smt with": "chalkashtirmoq",
+  "Continue with": "davom ettirmoq",
+  "Cope with": "uddalamoq",
+  "Help sb with": "yordam bermoq",
+  "Know about": "haqida bilmoq",
+  "Learn about": "haqida o’rganmoq",
+  "Succeed in": "ga muvaffaq bo’lmoq",
+  "An opinion about/of": "haqida fikr",
+  "A question about": "haqida savol",
+  "Accent": "aksent",
+  "Announcement": "e’lon",
+  "Broadcast": "eshittirmoq/eshittirish",
+  "Channel": "kanal",
+  "Clear": "aniq; toza",
+  "Click": "kattalashtirmoq, oydinlashtirmoq",
+  "Contact": "aloqa",
+  "File": "fayl",
+  "Formal": "rasmiy",
+  "Image": "surat, tasvir",
+  "Informal": "norasmiy",
+  "Internet": "internet",
+  "Interrupt": "halaqt bermoq",
+  "Link": "ulamoq",
+  "Media": "ommaviy axborot vositasi",
+  "Mobile phone": "qo’l telefon",
+  "Online": "onlayn, to’g’ridan-to’g’ri",
+  "Pause": "to’xtash  qilmoq",
+  "Persuade": "ko’ndirmoq",
+  "Pronounce": "talaffuz qilmoq",
+  "Publish": "nashr qilmoq",
+  "Request": "iltimos",
+  "Ring": "jiringlamoq",
+  "Signal": "signal",
+  "Swear": "haqoratlamoq",
+  "Type": "pechat qilmoq",
+  "Viewer": "tomoshabin",
+  "Website": "vebsayt",
+  "Whisper": "shivirlamoq",
+  "Call back": "qayta tel qilmoq",
+  "Come out": "nashrdan chiqmoq",
+  "Cut off": "uzib qo’ymoq",
+  "Fill in": "to’ldirmoq",
+  "Hang up": "go’shakni qo’ymoq",
+  "Log off": "netdan chiqmoq",
+  "Log on(to)": "netga kirmoq",
+  "Print out": "nashrdan chiqarmoq",
+  "By e": "mail – emayl orqali",
+  "By phone": "tel orqali",
+  "By letter": "xat orqali",
+  "On the internet": "internetda",
+  "On the news": "yangiliklarda",
+  "On the phone": "telefonda",
+  "On the radio": "radioda",
+  "On TV": "televizorda",
+  "Certain": "aniq",
+  "Certainly": "albattta",
+  "Certainty": "aniqlik",
+  "Communication": "aloqa",
+  "Connect": "bog’lamoq",
+  "Connection": "bog’liqlik",
+  "Disconnect": "uzmoq",
+  "Deliver": "yetkazib bermoq",
+  "Delivery": "yetkazib berish",
+  "Express": "ifodalamoq",
+  "Expression": "ifoda; ibora",
+  "Expressive": "ifodali",
+  "Inform": "xabar bermoq",
+  "Informative": "axborot beradigan",
+  "Information": "axborot",
+  "Predict": "bashorat qilmoq",
+  "Prediction": "bashorat",
+  "Predictable": "kutilyotgan",
+  "Unpredictable": "bashorat qilib bo’lmaydigan",
+  "Secret": "sir",
+  "Secretly": "sirli",
+  "Secrecy": "sirlilik",
+  "Speak [spoke/spoken]": "gapirmoq",
+  "Speaker": "so’zlovchi",
+  "Speech": "nutq",
+  "Translate": "tarjima qilmoq",
+  "Translation": "tarjima",
+  "Translator": "tarjimon",
+  "Comment on": "fikr bildirmoq",
+  "Communicate with": "bn aloqa o’rnatmoq",
+  "Glance at": "ko’z yugurtirmoq",
+  "Receive sth from": "dan qabul qilmoq",
+  "Reply to": "ga javob qaytarmoq",
+  "Send sth to sb": "jo’natmoq",
+  "Talk (to sb) about": "bn haqida gaplashmoq",
+  "Tell sb about": "haqida gaplashmoq",
+  "Translate (from sth) into": "tarjima qilmoq",
+  "Write (to sb) about": "haqida yozmoq",
+  "Information about": "haqida xabar",
+  "A letter (from sb) about": "haqida xat",
+  "Admit": "tan olmoq",
+  "Arrest": "qamamoq",
+  "Charity": "xayr-ehson",
+  "Commit": "jinoyat sodir etmoq",
+  "Community": "jamiyat, jamoa",
+  "Court": "sud",
+  "Criminal": "jinoyatchi/jinoiy",
+  "Familiar": "tanish",
+  "Government": "hukumat",
+  "Habit": "odat",
+  "Identity card": "guvohnoma/pasport",
+  "Illegal": "noqonuniy",
+  "Politics": "siyosat",
+  "Population": "aholi",
+  "Prison": "qamoq",
+  "Protest": "e’tiroz bildirmoq",
+  "Resident": "yashovchi",
+  "Responsible": "javobgar",
+  "Rob": "o’marmoq",
+  "Routine": "kun tartibi",
+  "Schedule": "jadval",
+  "Situation": "holat, vaziyat",
+  "Social": "ijtimoiy",
+  "Steal": "o’g’irlamoq",
+  "Tradition": "an’ana",
+  "Typical": "odatiy",
+  "Vote": "ovoz",
+  "Youth club": "yoshlar klubi",
+  "Break into": "bostirib kirmoq",
+  "Catch up with": "yetib olmoq",
+  "Get away with": "jazodan qutilib qolmoq",
+  "Get up": "turmoq",
+  "Move in": "ko’chib kirmoq",
+  "Put away": "joyiga qo’ymoq, yig’ishtirmoq",
+  "Wake up": "uyg’onmoq",
+  "Wash up": "idishlarni yuvmoq",
+  "Against the law": "qonunga qarshi",
+  "At the age of": "yoshda",
+  "In public": "jamoat joyida",
+  "In response to": "javob tariqasida",
+  "In touch with": "bilan doimiy aloqada",
+  "In my teens/twenties": "o’spirinligimda",
+  "Agree": "qo’shilmoq",
+  "Agreement": "kelishuv",
+  "Disagree": "qo’shilmaslik",
+  "Belief": "ishonch, e’tiqod",
+  "Believe": "Ishonmoq",
+  "Believable": "ishonsa bo’ladigan",
+  "Unbelievable": "ishonib bo’lmaydigan",
+  "Courage": "jasurlik",
+  "Courageous": "jasur",
+  "Elect": "saylamoq",
+  "Election": "saylov",
+  "Equal": "teng",
+  "Equality": "tenglik",
+  "Unequal": "tengi yo’q,tengsiz",
+  "Life": "hayot",
+  "Live": "yashamoq",
+  "Alive": "tirik",
+  "Nation": "millat",
+  "Nationality": "millat",
+  "National": "milliy",
+  "International": "xalqaro",
+  "Peace": "tinchlik",
+  "Peaceful(ly)": "xotirjam",
+  "Prisoner": "mahbus",
+  "Shoot [shot/shot]": "otmoq",
+  "Shooting": "o’q otish",
+  "Angry with sb": "dan jahli chiqmoq",
+  "Angry about sth": "narsadan jahli chiqmoq",
+  "Guilty of": "aybdor",
+  "Accuse sb of": "ayblamoq",
+  "Blame sb of": "ayblamoq",
+  "Blame sth on": "ayblamoq",
+  "Criticize sb for": "tanqid qilmoq",
+  "Forget about": "unutmoq",
+  "Forgive sb for": "kechirmoq",
+  "Invite sb to": "taklif qilmoq",
+  "Punish sb for": "jazolamoq",
+  "Share sth with": "baham ko’rmoq",
+  "Smile at": "tabassum qilmoq"
+}
